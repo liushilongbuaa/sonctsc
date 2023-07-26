@@ -67,11 +67,14 @@ echo interval:    $interval
 echo debug:    $debug
 echo dump:    $dump_type
 
-delete_empty_file(){
-    [ -n "$(find . -xtype f -name "*.json" -size -3c)" ] && rm $(find . -xtype f -name "*.json" -size -3c)
-}
-delete_zero_file(){
-    [ -n "$(find . -xtype f -name "*.json" -size -10c)" ] && rm $(find . -xtype f -name "*.json" -size -10c)
+check_dump_file(){
+    file=$1
+    [ -f $file ] || return 11
+    length=$(cat $file | jq length)
+    [[ $? != 0 ]] && return 12
+    echo $file,$length
+    echo $length | grep -e '00$' -e '^1$' && echo Warning: $file,$length !!!!!!!!!! 1>&2 && return 13
+    return 0
 }
 
 for year in $years
@@ -83,33 +86,42 @@ do
         repo=$(echo $org_repo | awk -F/ '{print$2}')
         org=$(echo $org_repo | awk -F/ '{print$1}')
         echo "    " repo: $repo
+        # try dump by year when bypass_year==n and no monthly dump files
+        file_by_year=$year/$repo.$dump_type.json
         if [[ "$bypass_year" == n ]] && [ -z "$(ls $year/$repo.*.$dump_type.json 2>/dev/null)" ];then
-            [ -f $year/$repo.$dump_type.json ] && continue
-            eval $debug gh pr list -R $org_repo -L 10000 -s merged --json $keys -S "merged:$year-01-01..$year-12-31" | jq --indent 4 ".[] += {repo: \"$repo\"}" > $year/$repo.$dump_type.json
-            delete_empty_file
-            [ -f $year/$repo.$dump_type.json ] && sleep $interval && continue
+            check_dump_file $file_by_year && continue
+            rm -rf $file_by_year
+            eval $debug gh pr list -R $org_repo -L 10000 -s merged --json $keys -S "merged:$year-01-01..$year-12-31" | jq --indent 4 ".[] += {repo: \"$repo\", author: .[].author.login} | sort_by(.number)"  > $file_by_year
+            sleep $interval
+            check_dump_file $file_by_year && continue
         fi
+
+        # try dump by month, when dump by year failed
         for month in $months
         do
-            days=31
-            [[ "$month" == "02" ]] && ([[ "$year" == "2016" ]] || [[ "$year" == "2020" ]]) && days=29
-            [[ "$month" == "02" ]] && ([[ "$year" != "2016" ]] && [[ "$year" != "2020" ]]) && days=28
-            [[ "$month" == "04" ]] || [[ "$month" == "06" ]] || [[ "$month" == "09" ]] || [[ "$month" == "11" ]] && days=30
-            echo "        " $month $days
-            [ -f $year/$repo.$month.$dump_type.json ] && continue
+            file_by_month=$year/$repo.$month.$dump_type.json
+            start=$year-$month-01
             # if the last day is not correct, download will fail.
-            eval $debug gh pr list -R $org_repo -L 10000 -s merged --json $keys -S "merged:$year-$month-01..$year-$month-$days" | jq --indent 4 ".[] += {repo: \"$repo\"}" > $year/$repo.$month.$dump_type.json
-            delete_empty_file
-            if ! ls $year/$repo.$month.$dump_type.json &>/dev/null;then
-                eval $debug gh pr list -R $org_repo -L 10000 -s merged --json $keys -S "merged:$year-$month-01..$year-$month-10" | jq --indent 4 ".[] += {repo: \"$repo\"}" > $year/$repo.$month.a.$dump_type.json
-                sleep 10
-                eval $debug gh pr list -R $org_repo -L 10000 -s merged --json $keys -S "merged:$year-$month-11..$year-$month-20" | jq --indent 4 ".[] += {repo: \"$repo\"}" > $year/$repo.$month.b.$dump_type.json
-                sleep 10
-                eval $debug gh pr list -R $org_repo -L 10000 -s merged --json $keys -S "merged:$year-$month-21..$year-$month-$days" | jq --indent 4 ".[] += {repo: \"$repo\"}" > $year/$repo.$month.c.$dump_type.json
-                jq -s 'add' $year/$repo.$month.a.$dump_type.json $year/$repo.$month.b.$dump_type.json $year/$repo.$month.c.$dump_type.json > $year/$repo.$month.$dump_type.json
-            fi
-            sleep $interval && continue
+            end=$(date -d "$year/$month/1 + 1 month -1 day" "+%Y-%m-%d")
+            echo "        $start,$end"
+            check_dump_file $file_by_month && continue
+            eval $debug gh pr list -R $org_repo -L 10000 -s merged --json $keys -S "merged:$start..$end" | jq --indent 4 ".[] += {repo: \"$repo\"}" > $file_by_month
+            sleep $interval
+            check_dump_file $file_by_month && continue
+
+            # try dump by 10 days, when dump by month failed
+            eval $debug gh pr list -R $org_repo -L 10000 -s merged --json $keys -S "merged:$year-$month-01..$year-$month-10" | jq --indent 4 ".[] += {repo: \"$repo\"}" > $year/$repo.$month.a.$dump_type.json
+            check_dump_file $year/$repo.$month.a.$dump_type.json || { echo "gh pr list -R $org_repo -L 10000 -s merged --json $keys -S \"merged:$year-$month-01..$year-$month-10\""; exit 111; }
+            sleep 10
+            eval $debug gh pr list -R $org_repo -L 10000 -s merged --json $keys -S "merged:$year-$month-11..$year-$month-20" | jq --indent 4 ".[] += {repo: \"$repo\"}" > $year/$repo.$month.b.$dump_type.json
+            check_dump_file $year/$repo.$month.b.$dump_type.json || { echo "gh pr list -R $org_repo -L 10000 -s merged --json $keys -S\"merged:$year-$month-11..$year-$month-20\""; exit 112; }
+            sleep 10
+            eval $debug gh pr list -R $org_repo -L 10000 -s merged --json $keys -S "merged:$year-$month-21..$end" | jq --indent 4 ".[] += {repo: \"$repo\"}" > $year/$repo.$month.c.$dump_type.json
+            check_dump_file $year/$repo.$month.c.$dump_type.json || { echo "gh pr list -R $org_repo -L 10000 -s merged --json $keys -S\"merged:$year-$month-21..$end\""; exit 113; }
+            sleep $interval
+            jq 'add | sort_by(.number)' --indent 4 $year/$repo.$month.a.$dump_type.json $year/$repo.$month.b.$dump_type.json $year/$repo.$month.c.$dump_type.json > $year/$repo.$month.$dump_type.json
         done    
+        jq 'add | sort_by(.number)' --indent 4 $year/$repo.*.$dump_type.json > $file_by_year
+        git add $file_by_year
     done
 done
-delete_zero_file
