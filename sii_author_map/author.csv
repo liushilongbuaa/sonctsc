@@ -42,7 +42,7 @@ Battier,Fanqi,null
 Blueve,Jing Kan,Microsoft
 Blyschak,Stepan Blyshchak,null
 BrandonCheng0121,Sheng-Chien Cheng,edge-core.com
-BrynXu,null,null
+BrynXu,null,Arista
 ByReaL,MirceaDan,Keysight
 CLUDev,null,null
 CNM777,null,null
@@ -55,7 +55,7 @@ Cosmin-Jinga-MS,null,null
 CynthiaINV,null,null
 DavidZagury,David Zagury,Nvidia
 DawoodMehmood,Dawood Mehmood ,xFlow Research Inc.
-DeanKalla,null,Broadcom
+DeanKalla,null,Arista
 DeepanSaha,null,null
 Deva-N,Deva Nandhagopal,null
 DhanaDell,Dhana,Dell
@@ -152,7 +152,7 @@ Mrvl-BenjaminHuang,null,null
 MuLinForest,MuLin,Edgecore
 NStetskovych-zz,Nadiia Stetskovych,null
 NaiduMarineni,null,null
-Nakrez,Baptiste Covolato,Broadcom
+Nakrez,Baptiste Covolato,Arista
 NarendraBandarupalli,Narendra B,Broadcom
 NazarTkachuk,Nazar Tkachuk,null
 Nazarii,Nazarii Gudzovatyi,null
@@ -210,7 +210,7 @@ SijiJ,Siji Joseph,Juniper Networks
 SinghMinu,null,null
 SolankiTrignesh,null,null
 StanleyCi,null,null
-Staphylo,Samuel Angebault,Broadcom
+Staphylo,Samuel Angebault,Arista
 StasTODD,null,null
 StephenWangGoogle,Stephen Wang,Google
 Stephenxf,stephenxf,LinkedIn
@@ -254,14 +254,14 @@ Yuval-Mellanox,null,null
 ZhaohuiS,Zhaohui Sun,Microsoft
 Zmegolaz,null,null
 a-barboza,Arun B,Broadcom
-aaronpayment,Aaron Payment,null
+aaronpayment,Aaron Payment,Arista
 aarthygnanamurthy,null,null
 abanu-ms,null,null
 abdosi,null,Microsoft
 abhijit-dhar,null,null
 abhiranjeet,Abhinav Mishra,null
 abhishekd0,Abhishek D,Broadcom
-abohanyang,Bohan Yang,Broadcom
+abohanyang,Bohan Yang,Arista
 abudaoweng,null,null
 acsjenkins,null,null
 adamdunstan,Adam Dunstan,Dunstan Associates
@@ -304,7 +304,7 @@ andriymoroz,null,null
 andriymoroz-mlnx,Andriy Moroz,null
 andriyz-nv,Andriy Zabavskyy,Nvidia
 andyivanov,Andy Ivanov,Microsoft
-andywongarista,null,null
+andywongarista,Andy Wong,Arista
 anil-kolkaleleti,Anil K,Broadcom
 anilkpan,Anil P,Broadcom
 anilkpandey,null,Broadcom
@@ -321,7 +321,7 @@ appleCh,null,null
 aputriax,Anton Putria,Intel
 aravindmani-1,Aravind Mani,Dell
 arfeigin,Aryeh Feigin,Nvidia
-arista-nwolfe,null,null
+arista-nwolfe,null,Arista
 arkadiyshapiro,Arkadiy Shapiro,@VMware
 arlakshm,Arvindsrinivasan Lakshmi Narasimhan,Microsoft
 arn-alt,Arnaud,null
@@ -395,7 +395,7 @@ budgrise,Bud Grise,null
 busterswt,James Denton,ArcaneByte
 bwebb94,null,null
 byronyi,Bairen Yi,null
-byu343,null,null
+byu343,Boyang Yu,Arista
 c-wichmann,Cliff Wichmann,null
 caizhenghui-juniper,Zhenghui Cai-Juniper Networks,Juniper Networks
 carl-nokia,null,null
@@ -415,7 +415,7 @@ charudattaschitale,Charudatta Chitale,Cisco
 chenkelly,Kelly Chen,Edgecore
 chenpiaoping,null,null
 chenyq2,chenyuqiang,X Networks
-cheryls-arista,null,null
+cheryls-arista,null,Arista
 chihhan123,null,null
 ching-kuo,Gene Kuo,Mirantis
 chiourung,ChiouRung Haung,Edgecore
@@ -445,7 +445,7 @@ daniele-moro,Daniele Moro,Intel
 darnasi,Prasad D,Broadcom
 david-xk,David Xiao,null
 davidfordouce,null,null
-davidm-arista,null,null
+davidm-arista,null,Arista
 davidpil2002,David Pilnik,Nvidia
 dawnbeauty,null,null
 daxia16,Davia Xia,Nvidia
@@ -514,7 +514,7 @@ elvistsai,ElvisTsai,null
 emilmih,emil mihaylov,null
 engdorm,Dor Marcous,Mov.AI
 erohsik,null,null
-eswaranb,Eswaran Baskaran,null
+eswaranb,Eswaran Baskaran,Arista
 eyal-horn-nvidia,null,null
 ezio-chen,ezio_chen,Edgecore
 ezware,null,null
@@ -638,7 +638,7 @@ jeremytouve,Jeremy Touve,@genesiscloud
 jeromesun14,Sun Yongfeng,Tencent
 jerseyang,null,null
 jessiewu01,Jessie Wu,Cisco
-jfeng-arista,null,null
+jfeng-arista,null,Arista
 jghalam,null,Dell
 jhli-cisco,Jihong Li,Cisco
 jhujhiti,Erick Turnquist,null
@@ -653,7 +653,7 @@ jithenderk,Jithender Reddy,null
 jjangmua,Jakkapan Jangmuang,null
 jklare,Jan Klare,null
 jleveque,Joe LeVeque,Microsoft
-jmmikkel,null,null
+jmmikkel,null,Arista
 jmzou,null,null
 joej164,Joseph Jacobs,null
 johcheun,John Cheung,null
@@ -691,14 +691,14 @@ kannankvs<kannan_kvs@dell.com>,null,null
 kaoyusean,Sean Kao,Alibaba
 karthik-krishnamurthy,Karthik Krishnamurthy,Dell
 karthikarum,Karthikeyan Arumugam,null
-kartik-arista,null,null
+kartik-arista,null,Arista
 kattamamatha,null,null
 kbabujp,Kumaresh Babu JP,Marvell Technology
 kcudnik,Kamil Cudnik,Microsoft
 keboliu,Kebo Liu,Nvidia
 keerodem,Keerthy Erode Moahansundaram,Cisco
 kellyyeh,null,Microsoft
-kenneth-arista,null,null
+kenneth-arista,Kenneth Cheung,Arista
 kerry-meyer,Kerry Meyer,Dell
 kevinn-brcm,Kevin N,Broadcom
 kevinskwang,Kevin Wang,Microsoft
@@ -790,7 +790,7 @@ mannytaheri,null,null
 maq123,null,null
 marian-pritsak,Marian Pritsak,Nvidia
 martin-belanger,Martin Belanger,Dell
-mathershifter,Jesse Mather,Arista Networks Inc.
+mathershifter,Jesse Mather,Arista
 mattyk,matty kadosh,mellanox
 mattyk-vm<mattyk@mellanox.com>,null,null
 mattyk<mattykadosh@gmail.com>,null,null
@@ -828,7 +828,7 @@ mkeda,Mike Attig,Google
 mkjprior,null,null
 mkovnir,Mykhailo Kovnir,Mellanox
 mlok-nokia,Marty Y. Lok,Nokia
-mlorrillere,Maxime Lorrillere,null
+mlorrillere,Maxime Lorrillere,Arista
 mm0930,Mehak M,Broadcom
 mmiele,Michael Miele,Microsoft
 mmysle,Michal Myslek,null
@@ -874,7 +874,7 @@ ndas7,Neha Das,Google
 nealtai,null,null
 neethajohn,Neetha John,Microsoft
 netmanyys,null,null
-ngoc-do,null,Broadcom
+ngoc-do,null,Arista
 nhe-NV,Nana He,Nvidia
 nicwu-cel,null,null
 nikos-github,Nikos,null
@@ -1059,7 +1059,7 @@ sanmalho-git,null,Nokia
 santhosh-kt,Santhosh Kumar T,Dell
 santoshdoke,Santosh,Broadcom
 sarathbug,Sarath G,Broadcom
-saravanansv,Saravanan Sellappa,Broadcom
+saravanansv,Saravanan Sellappa,Arista
 sarmathew,Sneha M,Broadcom
 satanninja,Brandon washam,null
 saurabh17g,Saurabh Ghorpade,Cisco
@@ -1116,7 +1116,7 @@ sivailangoaviz,Siva liango,Aviz Networks
 sivamukka,Siva M,Broadcom
 sj-harrish,Harrish SJ,Aviz Networks
 skanagas,null,null
-skbarista,Sambath Kumar Balasubramanian,Broadcom
+skbarista,Sambath Kumar Balasubramanian,Arista
 skbhava,Senthil B,Broadcom
 skeesara-nokia,null,null
 skg-net,Senthil Kumar Ganesan,@Dell-Networking
@@ -1325,12 +1325,12 @@ ylu7283,null,null
 ymc-dabe,Daniel Beyer,YMC AG
 yozhao101,null,Microsoft
 ysegev,Yohai Segev,null
-ysmanman,Song Yuan,Broadcom
+ysmanman,Song Yuan,Arista
 yucgu,Yucai Gu,Cisco
 yueyihui,Yue Liang,China
 yuliakonev,Yulia Konev,Nvidia
 yurikvol,null,null
-yurypm,null,Broadcom
+yurypm,null,Arista
 yutatsuchiyamicrosoft,null,Microsoft
 yutongzhang-microsoft,Yutong Zhang,Microsoft
 yvolynets-mlnx,null,@Mellanox
@@ -1355,4 +1355,4 @@ zjswhhh,Jing Zhang,Microsoft
 zoe-kuan,null,null
 zouzhao6,WuYangchao,null
 zubinshah,Zubin Shah,null
-zzhiyuan,null,null
+zzhiyuan,null,Arista
