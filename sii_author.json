@@ -1,0 +1,5527 @@
+[
+    {
+        "Name": "Author",
+        "Org": "Organization",
+        "Score": "Score"
+    },
+    {
+        "Name": "lguohan",
+        "Org": "Microsoft",
+        "Score": "7434.30"
+    },
+    {
+        "Name": "stephenxs",
+        "Org": "Nvidia",
+        "Score": "5509.50"
+    },
+    {
+        "Name": "jleveque",
+        "Org": "Microsoft",
+        "Score": "4946.60"
+    },
+    {
+        "Name": "kcudnik",
+        "Org": "Microsoft",
+        "Score": "4833.15"
+    },
+    {
+        "Name": "yxieca",
+        "Org": "Microsoft",
+        "Score": "4499.85"
+    },
+    {
+        "Name": "qiluo-msft",
+        "Org": "Microsoft",
+        "Score": "4288.20"
+    },
+    {
+        "Name": "bingwang-ms",
+        "Org": "Microsoft",
+        "Score": "3190.25"
+    },
+    {
+        "Name": "Junchao-Mellanox",
+        "Org": "Nvidia",
+        "Score": "3130.60"
+    },
+    {
+        "Name": "prsunny",
+        "Org": "Microsoft",
+        "Score": "2664.90"
+    },
+    {
+        "Name": "stepanblyschak",
+        "Org": "Nvidia",
+        "Score": "2635.95"
+    },
+    {
+        "Name": "wangxin",
+        "Org": "Microsoft",
+        "Score": "2375.95"
+    },
+    {
+        "Name": "xumia",
+        "Org": "Microsoft",
+        "Score": "2267.30"
+    },
+    {
+        "Name": "vdahiya12",
+        "Org": "Microsoft",
+        "Score": "2210.05"
+    },
+    {
+        "Name": "keboliu",
+        "Org": "Nvidia",
+        "Score": "2179.85"
+    },
+    {
+        "Name": "lolyu",
+        "Org": "Microsoft",
+        "Score": "2179.45"
+    },
+    {
+        "Name": "neethajohn",
+        "Org": "Microsoft",
+        "Score": "2131.05"
+    },
+    {
+        "Name": "richardyu-ms",
+        "Org": "Microsoft",
+        "Score": "2055.10"
+    },
+    {
+        "Name": "abdosi",
+        "Org": "Microsoft",
+        "Score": "2036.70"
+    },
+    {
+        "Name": "liushilongbuaa",
+        "Org": "Microsoft",
+        "Score": "1977.45"
+    },
+    {
+        "Name": "Pterosaur",
+        "Org": "Microsoft",
+        "Score": "1859.50"
+    },
+    {
+        "Name": "daall",
+        "Org": "Microsoft",
+        "Score": "1778.55"
+    },
+    {
+        "Name": "dgsudharsan",
+        "Org": "Nvidia",
+        "Score": "1703.50"
+    },
+    {
+        "Name": "pavel-shirshov",
+        "Org": "Microsoft",
+        "Score": "1613.10"
+    },
+    {
+        "Name": "Staphylo",
+        "Org": "Arista",
+        "Score": "1536.80"
+    },
+    {
+        "Name": "vivekrnv",
+        "Org": "Nvidia",
+        "Score": "1524.05"
+    },
+    {
+        "Name": "theasianpianist",
+        "Org": "Microsoft",
+        "Score": "1521.25"
+    },
+    {
+        "Name": "nazariig",
+        "Org": "Nvidia",
+        "Score": "1508.10"
+    },
+    {
+        "Name": "renukamanavalan",
+        "Org": "Microsoft",
+        "Score": "1345.05"
+    },
+    {
+        "Name": "vaibhavhd",
+        "Org": "Microsoft",
+        "Score": "1234.35"
+    },
+    {
+        "Name": "SuvarnaMeenakshi",
+        "Org": "Microsoft",
+        "Score": "1224.05"
+    },
+    {
+        "Name": "zjswhhh",
+        "Org": "Microsoft",
+        "Score": "1210.40"
+    },
+    {
+        "Name": "judyjoseph",
+        "Org": "Microsoft",
+        "Score": "1179.20"
+    },
+    {
+        "Name": "liuh-80",
+        "Org": "Microsoft",
+        "Score": "1158.05"
+    },
+    {
+        "Name": "arlakshm",
+        "Org": "Microsoft",
+        "Score": "1153.40"
+    },
+    {
+        "Name": "liat-grozovik",
+        "Org": "Nvidia",
+        "Score": "1144.40"
+    },
+    {
+        "Name": "saiarcot895",
+        "Org": "Microsoft",
+        "Score": "1096.85"
+    },
+    {
+        "Name": "aravindmani-1",
+        "Org": "Dell Technologies",
+        "Score": "1063.70"
+    },
+    {
+        "Name": "shi-su",
+        "Org": "Microsoft",
+        "Score": "1059.10"
+    },
+    {
+        "Name": "shlomibitton",
+        "Org": "Nvidia",
+        "Score": "1058.25"
+    },
+    {
+        "Name": "tahmed-dev",
+        "Org": "Microsoft",
+        "Score": "1048.30"
+    },
+    {
+        "Name": "smaheshm",
+        "Org": "Microsoft",
+        "Score": "1027.55"
+    },
+    {
+        "Name": "stcheng",
+        "Org": "Microsoft",
+        "Score": "988.55"
+    },
+    {
+        "Name": "tianshangfei",
+        "Org": "Tencent",
+        "Score": "964.20"
+    },
+    {
+        "Name": "alexrallen",
+        "Org": "Nvidia",
+        "Score": "955.00"
+    },
+    {
+        "Name": "gechiang",
+        "Org": "Microsoft",
+        "Score": "951.45"
+    },
+    {
+        "Name": "kellyyeh",
+        "Org": "Microsoft",
+        "Score": "933.55"
+    },
+    {
+        "Name": "volodymyrsamotiy",
+        "Org": "Nvidia",
+        "Score": "922.25"
+    },
+    {
+        "Name": "jostar-yang",
+        "Org": "Others",
+        "Score": "910.60"
+    },
+    {
+        "Name": "ganglyu",
+        "Org": "Microsoft",
+        "Score": "865.05"
+    },
+    {
+        "Name": "vadymhlushko-mlnx",
+        "Org": "Nvidia",
+        "Score": "861.85"
+    },
+    {
+        "Name": "sujinmkang",
+        "Org": "Microsoft",
+        "Score": "848.25"
+    },
+    {
+        "Name": "wendani",
+        "Org": "Microsoft",
+        "Score": "843.65"
+    },
+    {
+        "Name": "ArunSaravananBalachandran",
+        "Org": "Dell Technologies",
+        "Score": "826.80"
+    },
+    {
+        "Name": "sumukhatv",
+        "Org": "Uber",
+        "Score": "770.80"
+    },
+    {
+        "Name": "Blueve",
+        "Org": "Microsoft",
+        "Score": "765.75"
+    },
+    {
+        "Name": "mudsut4ke",
+        "Org": "Bayer",
+        "Score": "734.80"
+    },
+    {
+        "Name": "tonytitus",
+        "Org": "Others",
+        "Score": "729.35"
+    },
+    {
+        "Name": "wen587",
+        "Org": "Microsoft",
+        "Score": "696.65"
+    },
+    {
+        "Name": "ZhaohuiS",
+        "Org": "Microsoft",
+        "Score": "674.00"
+    },
+    {
+        "Name": "zhenggen-xu",
+        "Org": "Microsoft",
+        "Score": "671.40"
+    },
+    {
+        "Name": "ghooo",
+        "Org": "airbnb",
+        "Score": "660.10"
+    },
+    {
+        "Name": "prgeor",
+        "Org": "Microsoft",
+        "Score": "653.85"
+    },
+    {
+        "Name": "dprital",
+        "Org": "Nvidia",
+        "Score": "653.25"
+    },
+    {
+        "Name": "madhanmellanox",
+        "Org": "Nvidia",
+        "Score": "644.40"
+    },
+    {
+        "Name": "yejianquan",
+        "Org": "Microsoft",
+        "Score": "627.55"
+    },
+    {
+        "Name": "mykolaf",
+        "Org": "Nvidia",
+        "Score": "626.50"
+    },
+    {
+        "Name": "yozhao101",
+        "Org": "Microsoft",
+        "Score": "616.35"
+    },
+    {
+        "Name": "rhalstea",
+        "Org": "Google",
+        "Score": "611.90"
+    },
+    {
+        "Name": "kannankvs",
+        "Org": "Dell Technologies",
+        "Score": "588.25"
+    },
+    {
+        "Name": "AshokDaparthi",
+        "Org": "Dell Technologies",
+        "Score": "583.85"
+    },
+    {
+        "Name": "pettershao-ragilenetworks",
+        "Org": "Ragile",
+        "Score": "577.20"
+    },
+    {
+        "Name": "marian-pritsak",
+        "Org": "Nvidia",
+        "Score": "571.65"
+    },
+    {
+        "Name": "vmittal-msft",
+        "Org": "Microsoft",
+        "Score": "558.20"
+    },
+    {
+        "Name": "StormLiangMS",
+        "Org": "Microsoft",
+        "Score": "541.10"
+    },
+    {
+        "Name": "aljer",
+        "Org": "Intel",
+        "Score": "541.10"
+    },
+    {
+        "Name": "akokhan",
+        "Org": "plvision",
+        "Score": "537.80"
+    },
+    {
+        "Name": "praveen-li",
+        "Org": "Linkedin",
+        "Score": "531.25"
+    },
+    {
+        "Name": "AkhileshSamineni",
+        "Org": "Broadcom",
+        "Score": "530.55"
+    },
+    {
+        "Name": "mlok-nokia",
+        "Org": "Nokia",
+        "Score": "525.70"
+    },
+    {
+        "Name": "zzhiyuan",
+        "Org": "Arista",
+        "Score": "521.90"
+    },
+    {
+        "Name": "sachinholla",
+        "Org": "Broadcom",
+        "Score": "484.90"
+    },
+    {
+        "Name": "jimmyzhai",
+        "Org": "Microsoft",
+        "Score": "478.15"
+    },
+    {
+        "Name": "yutongzhang-microsoft",
+        "Org": "Microsoft",
+        "Score": "477.70"
+    },
+    {
+        "Name": "zbud-msft",
+        "Org": "Microsoft",
+        "Score": "477.30"
+    },
+    {
+        "Name": "andywongarista",
+        "Org": "Arista",
+        "Score": "476.50"
+    },
+    {
+        "Name": "baiwei0427",
+        "Org": "Microsoft",
+        "Score": "449.75"
+    },
+    {
+        "Name": "byu343",
+        "Org": "Arista",
+        "Score": "441.35"
+    },
+    {
+        "Name": "arunlk-dell",
+        "Org": "Dell Technologies",
+        "Score": "433.90"
+    },
+    {
+        "Name": "jipanyang",
+        "Org": "Alibaba",
+        "Score": "410.55"
+    },
+    {
+        "Name": "Gfrom2016",
+        "Org": "Microsoft",
+        "Score": "401.70"
+    },
+    {
+        "Name": "FuzailBrcm",
+        "Org": "Broadcom",
+        "Score": "396.60"
+    },
+    {
+        "Name": "msosyak",
+        "Org": "plvision",
+        "Score": "396.05"
+    },
+    {
+        "Name": "dzhangalibaba",
+        "Org": "Alibaba",
+        "Score": "393.35"
+    },
+    {
+        "Name": "santhosh-kt",
+        "Org": "Dell Technologies",
+        "Score": "385.50"
+    },
+    {
+        "Name": "ramakristipati",
+        "Org": "Broadcom",
+        "Score": "384.10"
+    },
+    {
+        "Name": "sanmalho-git",
+        "Org": "Nokia",
+        "Score": "379.15"
+    },
+    {
+        "Name": "ayurkiv-nvda",
+        "Org": "Nvidia",
+        "Score": "378.05"
+    },
+    {
+        "Name": "srideepDell",
+        "Org": "Dell Technologies",
+        "Score": "365.60"
+    },
+    {
+        "Name": "RyoYang",
+        "Org": "Microsoft",
+        "Score": "353.70"
+    },
+    {
+        "Name": "pkochmanska",
+        "Org": "Others",
+        "Score": "352.10"
+    },
+    {
+        "Name": "yaqiangz",
+        "Org": "Microsoft",
+        "Score": "350.10"
+    },
+    {
+        "Name": "PrabhuSreenivasan",
+        "Org": "Broadcom",
+        "Score": "349.40"
+    },
+    {
+        "Name": "vboykox",
+        "Org": "Others",
+        "Score": "347.85"
+    },
+    {
+        "Name": "maipbui",
+        "Org": "Microsoft",
+        "Score": "343.80"
+    },
+    {
+        "Name": "tjchadaga",
+        "Org": "Microsoft",
+        "Score": "343.55"
+    },
+    {
+        "Name": "ciju-juniper",
+        "Org": "Juniper",
+        "Score": "340.30"
+    },
+    {
+        "Name": "liorghub",
+        "Org": "Nvidia",
+        "Score": "338.00"
+    },
+    {
+        "Name": "vganesan-nokia",
+        "Org": "Others",
+        "Score": "337.70"
+    },
+    {
+        "Name": "antony-rheneus",
+        "Org": "Marvell",
+        "Score": "336.05"
+    },
+    {
+        "Name": "JaiOCP",
+        "Org": "Broadcom",
+        "Score": "335.20"
+    },
+    {
+        "Name": "roylee123",
+        "Org": "accton",
+        "Score": "334.00"
+    },
+    {
+        "Name": "kevinskwang",
+        "Org": "Microsoft",
+        "Score": "331.95"
+    },
+    {
+        "Name": "anish-n",
+        "Org": "Microsoft",
+        "Score": "317.75"
+    },
+    {
+        "Name": "andriymoroz-mlnx",
+        "Org": "Others",
+        "Score": "315.65"
+    },
+    {
+        "Name": "siqbal1986",
+        "Org": "Microsoft",
+        "Score": "311.70"
+    },
+    {
+        "Name": "simonJi2018",
+        "Org": "Others",
+        "Score": "308.85"
+    },
+    {
+        "Name": "rajendra-dendukuri",
+        "Org": "Broadcom",
+        "Score": "307.95"
+    },
+    {
+        "Name": "roberthong-qct",
+        "Org": "Others",
+        "Score": "305.20"
+    },
+    {
+        "Name": "isabelmsft",
+        "Org": "Microsoft",
+        "Score": "304.85"
+    },
+    {
+        "Name": "mint570",
+        "Org": "Google",
+        "Score": "300.90"
+    },
+    {
+        "Name": "AndriiLozovyi",
+        "Org": "Intel",
+        "Score": "297.15"
+    },
+    {
+        "Name": "ysmanman",
+        "Org": "Arista",
+        "Score": "293.30"
+    },
+    {
+        "Name": "shihjeff",
+        "Org": "Marvell",
+        "Score": "286.70"
+    },
+    {
+        "Name": "dgsudharsan",
+        "Org": "Dell Technologies",
+        "Score": "278.20"
+    },
+    {
+        "Name": "noaOrMlnx",
+        "Org": "Nvidia",
+        "Score": "270.00"
+    },
+    {
+        "Name": "samaity",
+        "Org": "Linkedin",
+        "Score": "269.90"
+    },
+    {
+        "Name": "zhoudongxu",
+        "Org": "Others",
+        "Score": "265.80"
+    },
+    {
+        "Name": "qbdwlr",
+        "Org": "Juniper",
+        "Score": "264.80"
+    },
+    {
+        "Name": "chitra-raghavan",
+        "Org": "Dell Technologies",
+        "Score": "264.00"
+    },
+    {
+        "Name": "DavidZagury",
+        "Org": "Nvidia",
+        "Score": "261.80"
+    },
+    {
+        "Name": "SavchukRomanLv",
+        "Org": "Intel",
+        "Score": "259.20"
+    },
+    {
+        "Name": "paavaanan",
+        "Org": "Dell Technologies",
+        "Score": "256.25"
+    },
+    {
+        "Name": "RogerX87",
+        "Org": "Others",
+        "Score": "247.80"
+    },
+    {
+        "Name": "ppikh",
+        "Org": "Nvidia",
+        "Score": "246.70"
+    },
+    {
+        "Name": "xwjiang-ms",
+        "Org": "Microsoft",
+        "Score": "244.80"
+    },
+    {
+        "Name": "dutta-partha",
+        "Org": "Broadcom",
+        "Score": "244.70"
+    },
+    {
+        "Name": "michealylj1",
+        "Org": "Others",
+        "Score": "243.80"
+    },
+    {
+        "Name": "sihuihan88",
+        "Org": "Microsoft",
+        "Score": "243.20"
+    },
+    {
+        "Name": "OleksandrKozodoi",
+        "Org": "Intel",
+        "Score": "239.85"
+    },
+    {
+        "Name": "andrewsapronov",
+        "Org": "netberg",
+        "Score": "238.00"
+    },
+    {
+        "Name": "dflynn-Nokia",
+        "Org": "Others",
+        "Score": "233.55"
+    },
+    {
+        "Name": "bratashX",
+        "Org": "Others",
+        "Score": "227.70"
+    },
+    {
+        "Name": "WistronNetwork",
+        "Org": "Others",
+        "Score": "222.60"
+    },
+    {
+        "Name": "shine4chen",
+        "Org": "Others",
+        "Score": "221.20"
+    },
+    {
+        "Name": "venkatmahalingam",
+        "Org": "Dell Technologies",
+        "Score": "220.90"
+    },
+    {
+        "Name": "TACappleman",
+        "Org": "Microsoft",
+        "Score": "216.50"
+    },
+    {
+        "Name": "nhe-NV",
+        "Org": "Nvidia",
+        "Score": "213.30"
+    },
+    {
+        "Name": "antonptashnik",
+        "Org": "Intel",
+        "Score": "210.70"
+    },
+    {
+        "Name": "taocy001",
+        "Org": "Others",
+        "Score": "203.60"
+    },
+    {
+        "Name": "saksarav-nokia",
+        "Org": "Others",
+        "Score": "203.10"
+    },
+    {
+        "Name": "x-junyi",
+        "Org": "Others",
+        "Score": "203.10"
+    },
+    {
+        "Name": "raphaelt-nvidia",
+        "Org": "Nvidia",
+        "Score": "199.10"
+    },
+    {
+        "Name": "wenyiz2021",
+        "Org": "Microsoft",
+        "Score": "196.10"
+    },
+    {
+        "Name": "tim-rj",
+        "Org": "Ruijie",
+        "Score": "193.50"
+    },
+    {
+        "Name": "a-barboza",
+        "Org": "Broadcom",
+        "Score": "190.20"
+    },
+    {
+        "Name": "ds952811",
+        "Org": "Broadcom",
+        "Score": "188.80"
+    },
+    {
+        "Name": "tsvanduyn",
+        "Org": "Microsoft",
+        "Score": "184.50"
+    },
+    {
+        "Name": "skbarista",
+        "Org": "Arista",
+        "Score": "184.45"
+    },
+    {
+        "Name": "yvolynets-mlnx",
+        "Org": "Nvidia",
+        "Score": "182.65"
+    },
+    {
+        "Name": "donNewtonAlpha",
+        "Org": "Google",
+        "Score": "182.60"
+    },
+    {
+        "Name": "dmytroxshevchuk",
+        "Org": "Others",
+        "Score": "181.60"
+    },
+    {
+        "Name": "AntonHryshchuk",
+        "Org": "Nvidia",
+        "Score": "180.40"
+    },
+    {
+        "Name": "Kalimuthu-Velappan",
+        "Org": "Broadcom",
+        "Score": "180.20"
+    },
+    {
+        "Name": "vasant17",
+        "Org": "Others",
+        "Score": "178.20"
+    },
+    {
+        "Name": "itaibaz",
+        "Org": "Nvidia",
+        "Score": "178.10"
+    },
+    {
+        "Name": "rlhui",
+        "Org": "Microsoft",
+        "Score": "177.85"
+    },
+    {
+        "Name": "Yakiv-Huryk",
+        "Org": "Nvidia",
+        "Score": "177.00"
+    },
+    {
+        "Name": "JibinBao",
+        "Org": "Nvidia",
+        "Score": "175.05"
+    },
+    {
+        "Name": "sridhar-ravindran",
+        "Org": "Dell Technologies",
+        "Score": "173.70"
+    },
+    {
+        "Name": "LuiSzee",
+        "Org": "Centec",
+        "Score": "170.90"
+    },
+    {
+        "Name": "sydlogan",
+        "Org": "Broadcom",
+        "Score": "170.60"
+    },
+    {
+        "Name": "brandonchuang",
+        "Org": "Others",
+        "Score": "170.40"
+    },
+    {
+        "Name": "pra-moh",
+        "Org": "Microsoft",
+        "Score": "170.15"
+    },
+    {
+        "Name": "AndoniSanguesa",
+        "Org": "Microsoft",
+        "Score": "169.75"
+    },
+    {
+        "Name": "VenkatCisco",
+        "Org": "Cisco",
+        "Score": "169.75"
+    },
+    {
+        "Name": "davidpil2002",
+        "Org": "Nvidia",
+        "Score": "168.30"
+    },
+    {
+        "Name": "kmalek-priv",
+        "Org": "Others",
+        "Score": "166.20"
+    },
+    {
+        "Name": "rajkumar38",
+        "Org": "Marvell",
+        "Score": "165.25"
+    },
+    {
+        "Name": "mprabhu-nokia",
+        "Org": "Others",
+        "Score": "164.90"
+    },
+    {
+        "Name": "juntseng62",
+        "Org": "Others",
+        "Score": "164.40"
+    },
+    {
+        "Name": "vperumal",
+        "Org": "Cisco",
+        "Score": "164.10"
+    },
+    {
+        "Name": "taoyl-ms",
+        "Org": "Microsoft",
+        "Score": "162.60"
+    },
+    {
+        "Name": "nicwu-cel",
+        "Org": "Others",
+        "Score": "157.90"
+    },
+    {
+        "Name": "lizhijianrd",
+        "Org": "Microsoft",
+        "Score": "154.20"
+    },
+    {
+        "Name": "preetham-singh",
+        "Org": "Broadcom",
+        "Score": "153.60"
+    },
+    {
+        "Name": "qinchuanares",
+        "Org": "Microsoft",
+        "Score": "153.60"
+    },
+    {
+        "Name": "srj102",
+        "Org": "Broadcom",
+        "Score": "153.40"
+    },
+    {
+        "Name": "vharish02",
+        "Org": "Dell Technologies",
+        "Score": "153.20"
+    },
+    {
+        "Name": "padmanarayana",
+        "Org": "Dell Technologies",
+        "Score": "150.40"
+    },
+    {
+        "Name": "ustachowiak",
+        "Org": "Others",
+        "Score": "148.80"
+    },
+    {
+        "Name": "Praveen-Brcm",
+        "Org": "Broadcom",
+        "Score": "148.40"
+    },
+    {
+        "Name": "mlorrillere",
+        "Org": "Arista",
+        "Score": "145.30"
+    },
+    {
+        "Name": "bocon13",
+        "Org": "Google",
+        "Score": "145.20"
+    },
+    {
+        "Name": "mmysle",
+        "Org": "Others",
+        "Score": "143.40"
+    },
+    {
+        "Name": "jcaiMR",
+        "Org": "Microsoft",
+        "Score": "142.80"
+    },
+    {
+        "Name": "Ndancejic",
+        "Org": "Microsoft",
+        "Score": "140.70"
+    },
+    {
+        "Name": "MariuszStachura",
+        "Org": "Others",
+        "Score": "140.40"
+    },
+    {
+        "Name": "anamehra",
+        "Org": "Cisco",
+        "Score": "140.40"
+    },
+    {
+        "Name": "kperumalbfn",
+        "Org": "Intel",
+        "Score": "140.25"
+    },
+    {
+        "Name": "seiferteric",
+        "Org": "Dell Technologies",
+        "Score": "138.90"
+    },
+    {
+        "Name": "rraghav-cisco",
+        "Org": "Cisco",
+        "Score": "135.50"
+    },
+    {
+        "Name": "pphuchar",
+        "Org": "Celestica",
+        "Score": "134.35"
+    },
+    {
+        "Name": "ec-michael-shih",
+        "Org": "EdgeCore",
+        "Score": "131.50"
+    },
+    {
+        "Name": "tcusto",
+        "Org": "Others",
+        "Score": "130.60"
+    },
+    {
+        "Name": "tomer-israel",
+        "Org": "Nvidia",
+        "Score": "130.60"
+    },
+    {
+        "Name": "Xichen96",
+        "Org": "Microsoft",
+        "Score": "130.50"
+    },
+    {
+        "Name": "yangbashuang",
+        "Org": "Centec",
+        "Score": "129.05"
+    },
+    {
+        "Name": "geogchen",
+        "Org": "Microsoft",
+        "Score": "128.40"
+    },
+    {
+        "Name": "joyas-joseph",
+        "Org": "Dell Technologies",
+        "Score": "126.50"
+    },
+    {
+        "Name": "XuChen-MSFT",
+        "Org": "Microsoft",
+        "Score": "125.40"
+    },
+    {
+        "Name": "CynthiaINV",
+        "Org": "Others",
+        "Score": "124.40"
+    },
+    {
+        "Name": "geans-pin",
+        "Org": "Broadcom",
+        "Score": "124.40"
+    },
+    {
+        "Name": "gitsabari",
+        "Org": "Broadcom",
+        "Score": "124.20"
+    },
+    {
+        "Name": "klhaung",
+        "Org": "Others",
+        "Score": "123.30"
+    },
+    {
+        "Name": "guxianghong",
+        "Org": "Centec",
+        "Score": "122.90"
+    },
+    {
+        "Name": "oleksandrivantsiv",
+        "Org": "Nvidia",
+        "Score": "122.60"
+    },
+    {
+        "Name": "bluecmd",
+        "Org": "Others",
+        "Score": "122.25"
+    },
+    {
+        "Name": "abohanyang",
+        "Org": "Arista",
+        "Score": "121.20"
+    },
+    {
+        "Name": "carl-nokia",
+        "Org": "Others",
+        "Score": "120.40"
+    },
+    {
+        "Name": "pollyhsu2git",
+        "Org": "EdgeCore",
+        "Score": "119.20"
+    },
+    {
+        "Name": "rkdevi27",
+        "Org": "Dell Technologies",
+        "Score": "118.25"
+    },
+    {
+        "Name": "snifbh",
+        "Org": "Nvidia",
+        "Score": "117.40"
+    },
+    {
+        "Name": "guangyao6",
+        "Org": "Microsoft",
+        "Score": "115.80"
+    },
+    {
+        "Name": "tylerlinp",
+        "Org": "Others",
+        "Score": "115.70"
+    },
+    {
+        "Name": "mdanish-kh",
+        "Org": "xFlow Research",
+        "Score": "115.20"
+    },
+    {
+        "Name": "AntheaJiang",
+        "Org": "Others",
+        "Score": "112.95"
+    },
+    {
+        "Name": "rawal01",
+        "Org": "Nokia",
+        "Score": "112.85"
+    },
+    {
+        "Name": "oxygen980",
+        "Org": "Nokia",
+        "Score": "111.75"
+    },
+    {
+        "Name": "sg893052",
+        "Org": "Broadcom",
+        "Score": "110.40"
+    },
+    {
+        "Name": "kirankella",
+        "Org": "Broadcom",
+        "Score": "109.80"
+    },
+    {
+        "Name": "svshah-intel",
+        "Org": "Intel",
+        "Score": "109.20"
+    },
+    {
+        "Name": "ArthiSivanantham",
+        "Org": "Dell Technologies",
+        "Score": "109.10"
+    },
+    {
+        "Name": "Sabareesh-Kumar-Anandan",
+        "Org": "Marvell",
+        "Score": "109.00"
+    },
+    {
+        "Name": "zhiyuan0112",
+        "Org": "Microsoft",
+        "Score": "106.80"
+    },
+    {
+        "Name": "EdenGri",
+        "Org": "Nvidia",
+        "Score": "106.50"
+    },
+    {
+        "Name": "jonathantsai-qci",
+        "Org": "Others",
+        "Score": "105.00"
+    },
+    {
+        "Name": "rupesh-k",
+        "Org": "Broadcom",
+        "Score": "104.20"
+    },
+    {
+        "Name": "donNewtonIntel",
+        "Org": "Others",
+        "Score": "103.80"
+    },
+    {
+        "Name": "mmiele",
+        "Org": "Microsoft",
+        "Score": "100.00"
+    },
+    {
+        "Name": "mihirpat1",
+        "Org": "Microsoft",
+        "Score": "99.90"
+    },
+    {
+        "Name": "abanu-ms",
+        "Org": "Others",
+        "Score": "99.50"
+    },
+    {
+        "Name": "assrinivasan",
+        "Org": "Microsoft",
+        "Score": "99.50"
+    },
+    {
+        "Name": "ngoc-do",
+        "Org": "Arista",
+        "Score": "99.50"
+    },
+    {
+        "Name": "kamalsahu0001",
+        "Org": "Others",
+        "Score": "99.00"
+    },
+    {
+        "Name": "nikos-github",
+        "Org": "Others",
+        "Score": "98.85"
+    },
+    {
+        "Name": "kwangsuk",
+        "Org": "Dell Technologies",
+        "Score": "98.50"
+    },
+    {
+        "Name": "kishorekunal01",
+        "Org": "Broadcom",
+        "Score": "98.40"
+    },
+    {
+        "Name": "mannytaheri",
+        "Org": "Others",
+        "Score": "97.80"
+    },
+    {
+        "Name": "anand-kumar-subramanian",
+        "Org": "Broadcom",
+        "Score": "96.10"
+    },
+    {
+        "Name": "mkbalani",
+        "Org": "Others",
+        "Score": "96.10"
+    },
+    {
+        "Name": "kevinwangsk",
+        "Org": "Nvidia",
+        "Score": "95.15"
+    },
+    {
+        "Name": "ravi861",
+        "Org": "Others",
+        "Score": "95.10"
+    },
+    {
+        "Name": "mohan-selvaraj",
+        "Org": "Broadcom",
+        "Score": "94.90"
+    },
+    {
+        "Name": "aputriax",
+        "Org": "Intel",
+        "Score": "94.80"
+    },
+    {
+        "Name": "ph408077",
+        "Org": "Broadcom",
+        "Score": "93.20"
+    },
+    {
+        "Name": "olivier-singla",
+        "Org": "Broadcom",
+        "Score": "91.35"
+    },
+    {
+        "Name": "dereksun01",
+        "Org": "Others",
+        "Score": "90.40"
+    },
+    {
+        "Name": "jsanghra",
+        "Org": "Cisco",
+        "Score": "90.00"
+    },
+    {
+        "Name": "MELLANOX-zhichenr",
+        "Org": "Others",
+        "Score": "89.00"
+    },
+    {
+        "Name": "taras-keryk",
+        "Org": "Others",
+        "Score": "88.80"
+    },
+    {
+        "Name": "MellanoxBSP",
+        "Org": "Nvidia",
+        "Score": "87.90"
+    },
+    {
+        "Name": "congh-nvidia",
+        "Org": "Nvidia",
+        "Score": "87.30"
+    },
+    {
+        "Name": "seanwu-ec",
+        "Org": "accton",
+        "Score": "87.25"
+    },
+    {
+        "Name": "lerry-lee",
+        "Org": "Microsoft",
+        "Score": "85.80"
+    },
+    {
+        "Name": "rck-innovium",
+        "Org": "Marvell",
+        "Score": "85.50"
+    },
+    {
+        "Name": "michaelli10",
+        "Org": "Broadcom",
+        "Score": "84.50"
+    },
+    {
+        "Name": "lixiaoyuner",
+        "Org": "Microsoft",
+        "Score": "84.00"
+    },
+    {
+        "Name": "gengankarthik",
+        "Org": "Dell Technologies",
+        "Score": "83.10"
+    },
+    {
+        "Name": "maggiemsft",
+        "Org": "Microsoft",
+        "Score": "81.80"
+    },
+    {
+        "Name": "globaltrouble",
+        "Org": "Others",
+        "Score": "80.25"
+    },
+    {
+        "Name": "AmitKaushik7",
+        "Org": "Broadcom",
+        "Score": "80.00"
+    },
+    {
+        "Name": "vsenchyshyn",
+        "Org": "Intel",
+        "Score": "77.65"
+    },
+    {
+        "Name": "ANISH-GOTTAPU",
+        "Org": "Others",
+        "Score": "77.25"
+    },
+    {
+        "Name": "mykolaxgerasymenko",
+        "Org": "Intel",
+        "Score": "77.00"
+    },
+    {
+        "Name": "phshaikh",
+        "Org": "Others",
+        "Score": "77.00"
+    },
+    {
+        "Name": "kktheballer",
+        "Org": "Microsoft",
+        "Score": "76.05"
+    },
+    {
+        "Name": "minionatwork",
+        "Org": "Others",
+        "Score": "75.40"
+    },
+    {
+        "Name": "hui-ma",
+        "Org": "Microsoft",
+        "Score": "75.20"
+    },
+    {
+        "Name": "msiddare",
+        "Org": "Cisco",
+        "Score": "75.00"
+    },
+    {
+        "Name": "xinyulin",
+        "Org": "Others",
+        "Score": "74.70"
+    },
+    {
+        "Name": "jerseyang",
+        "Org": "Others",
+        "Score": "74.60"
+    },
+    {
+        "Name": "d-dashkov",
+        "Org": "Jabil",
+        "Score": "74.50"
+    },
+    {
+        "Name": "dbarashinvd",
+        "Org": "Nvidia",
+        "Score": "73.50"
+    },
+    {
+        "Name": "jeffhtgt",
+        "Org": "Others",
+        "Score": "72.60"
+    },
+    {
+        "Name": "Cosmin-Jinga-MS",
+        "Org": "Others",
+        "Score": "72.00"
+    },
+    {
+        "Name": "dmytroxIntel",
+        "Org": "Others",
+        "Score": "72.00"
+    },
+    {
+        "Name": "linalvin",
+        "Org": "Others",
+        "Score": "72.00"
+    },
+    {
+        "Name": "mikeberesford",
+        "Org": "Google",
+        "Score": "71.45"
+    },
+    {
+        "Name": "paulmenzel",
+        "Org": "Max-Planck-Institut",
+        "Score": "71.15"
+    },
+    {
+        "Name": "diaryevil",
+        "Org": "c ai",
+        "Score": "70.75"
+    },
+    {
+        "Name": "gregshpit",
+        "Org": "Others",
+        "Score": "70.60"
+    },
+    {
+        "Name": "vcheketx",
+        "Org": "Intel",
+        "Score": "70.60"
+    },
+    {
+        "Name": "devpatha",
+        "Org": "Cisco",
+        "Score": "69.00"
+    },
+    {
+        "Name": "vmorokhx",
+        "Org": "Intel",
+        "Score": "68.45"
+    },
+    {
+        "Name": "iris00522",
+        "Org": "EdgeCore",
+        "Score": "67.75"
+    },
+    {
+        "Name": "bandaru-viswanath",
+        "Org": "Broadcom",
+        "Score": "67.40"
+    },
+    {
+        "Name": "ashutosh-agrawal",
+        "Org": "Intel",
+        "Score": "66.20"
+    },
+    {
+        "Name": "gord1306",
+        "Org": "EdgeCore",
+        "Score": "66.20"
+    },
+    {
+        "Name": "jiahua-wang",
+        "Org": "Broadcom",
+        "Score": "65.60"
+    },
+    {
+        "Name": "dipankar-ba",
+        "Org": "Broadcom",
+        "Score": "65.40"
+    },
+    {
+        "Name": "prabhataravind",
+        "Org": "Microsoft",
+        "Score": "65.40"
+    },
+    {
+        "Name": "tapashdas",
+        "Org": "Broadcom",
+        "Score": "65.00"
+    },
+    {
+        "Name": "chiourung",
+        "Org": "EdgeCore",
+        "Score": "64.65"
+    },
+    {
+        "Name": "kuanyu99",
+        "Org": "EdgeCore",
+        "Score": "64.60"
+    },
+    {
+        "Name": "wangshengjun",
+        "Org": "asterfusion",
+        "Score": "64.30"
+    },
+    {
+        "Name": "macikgozwa",
+        "Org": "Others",
+        "Score": "64.10"
+    },
+    {
+        "Name": "ihorchekh",
+        "Org": "Nvidia",
+        "Score": "63.75"
+    },
+    {
+        "Name": "jmmikkel",
+        "Org": "Arista",
+        "Score": "63.50"
+    },
+    {
+        "Name": "microsoft-cla-retired",
+        "Org": "Others",
+        "Score": "61.25"
+    },
+    {
+        "Name": "rodnymolina",
+        "Org": "docker",
+        "Score": "60.80"
+    },
+    {
+        "Name": "Hedgehog-Guru",
+        "Org": "Others",
+        "Score": "60.75"
+    },
+    {
+        "Name": "GarrickHe",
+        "Org": "Dell Technologies",
+        "Score": "60.00"
+    },
+    {
+        "Name": "wsycqyz",
+        "Org": "Microsoft",
+        "Score": "59.70"
+    },
+    {
+        "Name": "saravanansv",
+        "Org": "Arista",
+        "Score": "59.55"
+    },
+    {
+        "Name": "deran1980",
+        "Org": "Nvidia",
+        "Score": "58.00"
+    },
+    {
+        "Name": "sojindal",
+        "Org": "Others",
+        "Score": "58.00"
+    },
+    {
+        "Name": "anshuv-mfst",
+        "Org": "Microsoft",
+        "Score": "57.80"
+    },
+    {
+        "Name": "hans-tseng",
+        "Org": "Others",
+        "Score": "57.20"
+    },
+    {
+        "Name": "FSSec",
+        "Org": "Others",
+        "Score": "56.40"
+    },
+    {
+        "Name": "madhava28",
+        "Org": "Others",
+        "Score": "56.30"
+    },
+    {
+        "Name": "arvbb",
+        "Org": "Others",
+        "Score": "55.80"
+    },
+    {
+        "Name": "selldinesh",
+        "Org": "Keysight",
+        "Score": "55.40"
+    },
+    {
+        "Name": "tiejunzhang-ms",
+        "Org": "Microsoft",
+        "Score": "54.90"
+    },
+    {
+        "Name": "arfeigin",
+        "Org": "Nvidia",
+        "Score": "54.60"
+    },
+    {
+        "Name": "longhuan-cisco",
+        "Org": "Cisco",
+        "Score": "54.50"
+    },
+    {
+        "Name": "SidharajU",
+        "Org": "Others",
+        "Score": "54.40"
+    },
+    {
+        "Name": "romankachur-mlnx",
+        "Org": "Others",
+        "Score": "54.00"
+    },
+    {
+        "Name": "fengkm",
+        "Org": "ufispace",
+        "Score": "53.60"
+    },
+    {
+        "Name": "thaj-deen",
+        "Org": "Dell Technologies",
+        "Score": "53.25"
+    },
+    {
+        "Name": "tarakreddy1984",
+        "Org": "Others",
+        "Score": "53.00"
+    },
+    {
+        "Name": "zhaozhenhong",
+        "Org": "Dell",
+        "Score": "53.00"
+    },
+    {
+        "Name": "chrispsommers",
+        "Org": "Keysight",
+        "Score": "52.95"
+    },
+    {
+        "Name": "wbschwar",
+        "Org": "Others",
+        "Score": "52.70"
+    },
+    {
+        "Name": "chenkelly",
+        "Org": "EdgeCore",
+        "Score": "52.50"
+    },
+    {
+        "Name": "caizhenghui-juniper",
+        "Org": "Juniper",
+        "Score": "52.05"
+    },
+    {
+        "Name": "shubav",
+        "Org": "Nokia",
+        "Score": "51.85"
+    },
+    {
+        "Name": "stephengao-ragilenetworks",
+        "Org": "Ragile",
+        "Score": "51.75"
+    },
+    {
+        "Name": "kv-y",
+        "Org": "Others",
+        "Score": "51.60"
+    },
+    {
+        "Name": "KostiantynYarovyiBf",
+        "Org": "Others",
+        "Score": "51.00"
+    },
+    {
+        "Name": "zhangyanzhao",
+        "Org": "Microsoft",
+        "Score": "49.75"
+    },
+    {
+        "Name": "shyam77git",
+        "Org": "Cisco",
+        "Score": "49.20"
+    },
+    {
+        "Name": "roy-sror",
+        "Org": "Nvidia",
+        "Score": "49.15"
+    },
+    {
+        "Name": "SubhajitPalKeysight",
+        "Org": "Keysight",
+        "Score": "49.00"
+    },
+    {
+        "Name": "anilkpan",
+        "Org": "Broadcom",
+        "Score": "48.50"
+    },
+    {
+        "Name": "ziverlichson",
+        "Org": "Others",
+        "Score": "48.20"
+    },
+    {
+        "Name": "monipko",
+        "Org": "Intel",
+        "Score": "48.15"
+    },
+    {
+        "Name": "slutati1536",
+        "Org": "Nvidia",
+        "Score": "47.50"
+    },
+    {
+        "Name": "sudhanshukumar22",
+        "Org": "Broadcom",
+        "Score": "47.00"
+    },
+    {
+        "Name": "StanleyCi",
+        "Org": "Others",
+        "Score": "46.40"
+    },
+    {
+        "Name": "mbalachandar",
+        "Org": "Broadcom",
+        "Score": "46.40"
+    },
+    {
+        "Name": "david-xk",
+        "Org": "Others",
+        "Score": "46.10"
+    },
+    {
+        "Name": "SijiJ",
+        "Org": "Juniper",
+        "Score": "45.90"
+    },
+    {
+        "Name": "zoe-kuan",
+        "Org": "Others",
+        "Score": "45.60"
+    },
+    {
+        "Name": "j-bos",
+        "Org": "Cisco",
+        "Score": "45.20"
+    },
+    {
+        "Name": "erohsik",
+        "Org": "Others",
+        "Score": "45.00"
+    },
+    {
+        "Name": "kerry-meyer",
+        "Org": "Dell Technologies",
+        "Score": "45.00"
+    },
+    {
+        "Name": "qnos",
+        "Org": "Others",
+        "Score": "45.00"
+    },
+    {
+        "Name": "loshihyu",
+        "Org": "aviatrix",
+        "Score": "44.70"
+    },
+    {
+        "Name": "rsunkad",
+        "Org": "Others",
+        "Score": "44.60"
+    },
+    {
+        "Name": "kaiyu22",
+        "Org": "ingrasys",
+        "Score": "44.00"
+    },
+    {
+        "Name": "sandycelestica",
+        "Org": "Others",
+        "Score": "43.05"
+    },
+    {
+        "Name": "UmaMaven",
+        "Org": "Others",
+        "Score": "42.90"
+    },
+    {
+        "Name": "jhli-cisco",
+        "Org": "Cisco",
+        "Score": "42.60"
+    },
+    {
+        "Name": "Nakrez",
+        "Org": "Arista",
+        "Score": "42.40"
+    },
+    {
+        "Name": "NazarTkachuk",
+        "Org": "Others",
+        "Score": "42.00"
+    },
+    {
+        "Name": "eswaranb",
+        "Org": "Arista",
+        "Score": "42.00"
+    },
+    {
+        "Name": "tiejunzhang",
+        "Org": "Microsoft",
+        "Score": "42.00"
+    },
+    {
+        "Name": "yenlu-keith",
+        "Org": "Cisco",
+        "Score": "42.00"
+    },
+    {
+        "Name": "heidinet2007",
+        "Org": "Alibaba",
+        "Score": "41.40"
+    },
+    {
+        "Name": "MichelMoriniaux",
+        "Org": "criteo",
+        "Score": "41.30"
+    },
+    {
+        "Name": "bbinxie",
+        "Org": "Others",
+        "Score": "41.10"
+    },
+    {
+        "Name": "tiantianlv",
+        "Org": "Others",
+        "Score": "40.40"
+    },
+    {
+        "Name": "bsun-sudo",
+        "Org": "Dell Technologies",
+        "Score": "40.00"
+    },
+    {
+        "Name": "lipxu",
+        "Org": "Microsoft",
+        "Score": "39.90"
+    },
+    {
+        "Name": "vpsubramaniam",
+        "Org": "Dell Technologies",
+        "Score": "39.00"
+    },
+    {
+        "Name": "chaoskao",
+        "Org": "EdgeCore",
+        "Score": "38.90"
+    },
+    {
+        "Name": "baxia-lan",
+        "Org": "Google",
+        "Score": "38.40"
+    },
+    {
+        "Name": "Peter5Lin",
+        "Org": "pegatron corp",
+        "Score": "38.20"
+    },
+    {
+        "Name": "miheot",
+        "Org": "Others",
+        "Score": "37.50"
+    },
+    {
+        "Name": "stanepc1",
+        "Org": "Others",
+        "Score": "37.30"
+    },
+    {
+        "Name": "alvinkaiwei",
+        "Org": "Others",
+        "Score": "37.20"
+    },
+    {
+        "Name": "BrynXu",
+        "Org": "Arista",
+        "Score": "36.80"
+    },
+    {
+        "Name": "bacrossland",
+        "Org": "Others",
+        "Score": "36.60"
+    },
+    {
+        "Name": "chihhan123",
+        "Org": "Others",
+        "Score": "36.60"
+    },
+    {
+        "Name": "linemma",
+        "Org": "EdgeCore",
+        "Score": "36.00"
+    },
+    {
+        "Name": "YonatanPitz",
+        "Org": "Others",
+        "Score": "35.40"
+    },
+    {
+        "Name": "skeesara-nokia",
+        "Org": "Others",
+        "Score": "35.10"
+    },
+    {
+        "Name": "isgmano",
+        "Org": "Others",
+        "Score": "35.00"
+    },
+    {
+        "Name": "nkelapur",
+        "Org": "Broadcom",
+        "Score": "35.00"
+    },
+    {
+        "Name": "rraguraj",
+        "Org": "Cisco",
+        "Score": "35.00"
+    },
+    {
+        "Name": "shruthi9",
+        "Org": "Intel",
+        "Score": "34.80"
+    },
+    {
+        "Name": "hasan-brcm",
+        "Org": "Broadcom",
+        "Score": "34.70"
+    },
+    {
+        "Name": "nathcohe",
+        "Org": "Cisco",
+        "Score": "34.25"
+    },
+    {
+        "Name": "carycelestica",
+        "Org": "Others",
+        "Score": "34.00"
+    },
+    {
+        "Name": "haslersn",
+        "Org": "Others",
+        "Score": "34.00"
+    },
+    {
+        "Name": "Ashish1805",
+        "Org": "Google",
+        "Score": "33.80"
+    },
+    {
+        "Name": "rathnasabapathyv",
+        "Org": "Dell Technologies",
+        "Score": "32.90"
+    },
+    {
+        "Name": "shri-khare",
+        "Org": "Others",
+        "Score": "32.70"
+    },
+    {
+        "Name": "aurghob",
+        "Org": "Microsoft",
+        "Score": "32.50"
+    },
+    {
+        "Name": "mikelazar",
+        "Org": "Dell Technologies",
+        "Score": "31.65"
+    },
+    {
+        "Name": "jianjundong",
+        "Org": "Others",
+        "Score": "31.50"
+    },
+    {
+        "Name": "ohu1",
+        "Org": "Dell",
+        "Score": "31.50"
+    },
+    {
+        "Name": "SarathBug",
+        "Org": "Broadcom",
+        "Score": "31.40"
+    },
+    {
+        "Name": "anilkpandey",
+        "Org": "Broadcom",
+        "Score": "31.10"
+    },
+    {
+        "Name": "dependabot",
+        "Org": "Others",
+        "Score": "31.00"
+    },
+    {
+        "Name": "arista-nwolfe",
+        "Org": "Arista",
+        "Score": "30.60"
+    },
+    {
+        "Name": "fastiuk",
+        "Org": "Nvidia",
+        "Score": "30.50"
+    },
+    {
+        "Name": "shikenghua",
+        "Org": "EdgeCore",
+        "Score": "30.40"
+    },
+    {
+        "Name": "pyadvichuk",
+        "Org": "Others",
+        "Score": "30.30"
+    },
+    {
+        "Name": "JohnsonYJLu",
+        "Org": "Others",
+        "Score": "30.20"
+    },
+    {
+        "Name": "kbabujp",
+        "Org": "Marvell",
+        "Score": "30.00"
+    },
+    {
+        "Name": "pavannaregundi",
+        "Org": "Marvell",
+        "Score": "30.00"
+    },
+    {
+        "Name": "pyuvarajan",
+        "Org": "Others",
+        "Score": "30.00"
+    },
+    {
+        "Name": "developfast",
+        "Org": "Microsoft",
+        "Score": "29.90"
+    },
+    {
+        "Name": "amaneti",
+        "Org": "Broadcom",
+        "Score": "29.90"
+    },
+    {
+        "Name": "jainp1979",
+        "Org": "Broadcom",
+        "Score": "29.50"
+    },
+    {
+        "Name": "jon-nokia",
+        "Org": "Nokia",
+        "Score": "29.10"
+    },
+    {
+        "Name": "alpeshspatel",
+        "Org": "Others",
+        "Score": "28.50"
+    },
+    {
+        "Name": "stevenlu99",
+        "Org": "Broadcom",
+        "Score": "28.50"
+    },
+    {
+        "Name": "ishidawataru",
+        "Org": "ntt",
+        "Score": "28.40"
+    },
+    {
+        "Name": "AlanYoush",
+        "Org": "Centec",
+        "Score": "28.00"
+    },
+    {
+        "Name": "sumanbrcm",
+        "Org": "Broadcom",
+        "Score": "28.00"
+    },
+    {
+        "Name": "weixchen1215",
+        "Org": "Microsoft",
+        "Score": "28.00"
+    },
+    {
+        "Name": "adyeung",
+        "Org": "Broadcom",
+        "Score": "27.80"
+    },
+    {
+        "Name": "yangshp1987",
+        "Org": "JD",
+        "Score": "27.50"
+    },
+    {
+        "Name": "andrii-savka",
+        "Org": "Others",
+        "Score": "27.30"
+    },
+    {
+        "Name": "cgangx",
+        "Org": "Microsoft",
+        "Score": "27.00"
+    },
+    {
+        "Name": "jaganbal-a",
+        "Org": "Cisco",
+        "Score": "26.70"
+    },
+    {
+        "Name": "KrisNey-MSFT",
+        "Org": "Microsoft",
+        "Score": "26.00"
+    },
+    {
+        "Name": "habeebmohammed",
+        "Org": " inventec",
+        "Score": "25.80"
+    },
+    {
+        "Name": "chaliu",
+        "Org": "Microsoft",
+        "Score": "25.20"
+    },
+    {
+        "Name": "vincentchiang-ec",
+        "Org": "EdgeCore",
+        "Score": "24.75"
+    },
+    {
+        "Name": "gollarharsha",
+        "Org": "Others",
+        "Score": "24.65"
+    },
+    {
+        "Name": "faraazbrcm",
+        "Org": "Broadcom",
+        "Score": "24.40"
+    },
+    {
+        "Name": "Megathrone",
+        "Org": "Microsoft",
+        "Score": "24.05"
+    },
+    {
+        "Name": "VadymYashchenko",
+        "Org": "Intel",
+        "Score": "24.00"
+    },
+    {
+        "Name": "abhijit-dhar",
+        "Org": "Others",
+        "Score": "24.00"
+    },
+    {
+        "Name": "oleksandrx-kolomeiets",
+        "Org": "Intel",
+        "Score": "24.00"
+    },
+    {
+        "Name": "orfar1994",
+        "Org": "Nvidia",
+        "Score": "24.00"
+    },
+    {
+        "Name": "rvisnu",
+        "Org": "Microsoft",
+        "Score": "24.00"
+    },
+    {
+        "Name": "songqh2022",
+        "Org": "Others",
+        "Score": "24.00"
+    },
+    {
+        "Name": "svelamal",
+        "Org": "Cisco",
+        "Score": "24.00"
+    },
+    {
+        "Name": "DeanKalla",
+        "Org": "Arista",
+        "Score": "23.90"
+    },
+    {
+        "Name": "karthik-krishnamurthy",
+        "Org": "Dell Technologies",
+        "Score": "23.60"
+    },
+    {
+        "Name": "banagiri",
+        "Org": "Marvell",
+        "Score": "23.10"
+    },
+    {
+        "Name": "rakeshdatta",
+        "Org": "Microsoft",
+        "Score": "23.10"
+    },
+    {
+        "Name": "maheshwari-mayank",
+        "Org": "Broadcom",
+        "Score": "23.00"
+    },
+    {
+        "Name": "nealtai",
+        "Org": "Others",
+        "Score": "23.00"
+    },
+    {
+        "Name": "rajneeshaec",
+        "Org": "Marvell",
+        "Score": "23.00"
+    },
+    {
+        "Name": "tbgowda",
+        "Org": "Cisco",
+        "Score": "23.00"
+    },
+    {
+        "Name": "donboll",
+        "Org": "Others",
+        "Score": "22.70"
+    },
+    {
+        "Name": "reshmaintel",
+        "Org": "Intel",
+        "Score": "22.60"
+    },
+    {
+        "Name": "dawnbeauty",
+        "Org": "Others",
+        "Score": "22.40"
+    },
+    {
+        "Name": "maduramarathe9",
+        "Org": "Microsoft",
+        "Score": "21.90"
+    },
+    {
+        "Name": "MuLinForest",
+        "Org": "EdgeCore",
+        "Score": "21.50"
+    },
+    {
+        "Name": "hadiga",
+        "Org": "Linkedin",
+        "Score": "21.20"
+    },
+    {
+        "Name": "cel-taylor",
+        "Org": "Others",
+        "Score": "21.00"
+    },
+    {
+        "Name": "msomasundaran",
+        "Org": "fungible inc",
+        "Score": "21.00"
+    },
+    {
+        "Name": "jjangmua",
+        "Org": "Others",
+        "Score": "20.80"
+    },
+    {
+        "Name": "maulik-marvell",
+        "Org": "Marvell",
+        "Score": "20.80"
+    },
+    {
+        "Name": "allas-nvidia",
+        "Org": "Others",
+        "Score": "20.00"
+    },
+    {
+        "Name": "cawand",
+        "Org": "Others",
+        "Score": "20.00"
+    },
+    {
+        "Name": "srikrishnagopu",
+        "Org": "Others",
+        "Score": "20.00"
+    },
+    {
+        "Name": "mini-nair-dell",
+        "Org": "Dell Technologies",
+        "Score": "19.50"
+    },
+    {
+        "Name": "yehjunying",
+        "Org": "EdgeCore",
+        "Score": "19.50"
+    },
+    {
+        "Name": "hzheng5",
+        "Org": "Alibaba",
+        "Score": "19.40"
+    },
+    {
+        "Name": "mickeyspiegel",
+        "Org": "Intel",
+        "Score": "19.30"
+    },
+    {
+        "Name": "PJHsieh",
+        "Org": "EdgeCore",
+        "Score": "19.00"
+    },
+    {
+        "Name": "sacnaik",
+        "Org": "Cisco",
+        "Score": "18.75"
+    },
+    {
+        "Name": "BasimShalata",
+        "Org": "Others",
+        "Score": "18.50"
+    },
+    {
+        "Name": "apogedik",
+        "Org": "Others",
+        "Score": "18.50"
+    },
+    {
+        "Name": "cpchangtw",
+        "Org": "Others",
+        "Score": "18.50"
+    },
+    {
+        "Name": "jusherma",
+        "Org": "Cisco",
+        "Score": "18.50"
+    },
+    {
+        "Name": "romanvasylys",
+        "Org": "Intel",
+        "Score": "18.30"
+    },
+    {
+        "Name": "yurypm",
+        "Org": "Arista",
+        "Score": "18.20"
+    },
+    {
+        "Name": "ByReaL",
+        "Org": "Keysight",
+        "Score": "18.00"
+    },
+    {
+        "Name": "cchoate54",
+        "Org": "Microsoft",
+        "Score": "18.00"
+    },
+    {
+        "Name": "gvlaemyn",
+        "Org": "Cisco",
+        "Score": "18.00"
+    },
+    {
+        "Name": "hamnarauf",
+        "Org": "xFlow Research",
+        "Score": "18.00"
+    },
+    {
+        "Name": "jfeng-arista",
+        "Org": "Arista",
+        "Score": "18.00"
+    },
+    {
+        "Name": "link19430",
+        "Org": "EdgeCore",
+        "Score": "18.00"
+    },
+    {
+        "Name": "lukasstockner",
+        "Org": "GenesisCloud",
+        "Score": "18.00"
+    },
+    {
+        "Name": "slogan621",
+        "Org": "Others",
+        "Score": "18.00"
+    },
+    {
+        "Name": "tadams-msft",
+        "Org": "Others",
+        "Score": "18.00"
+    },
+    {
+        "Name": "yucgu",
+        "Org": "Cisco",
+        "Score": "18.00"
+    },
+    {
+        "Name": "NStetskovych-zz",
+        "Org": "Others",
+        "Score": "17.90"
+    },
+    {
+        "Name": "ben-gale",
+        "Org": "Broadcom",
+        "Score": "17.80"
+    },
+    {
+        "Name": "kannankvs<kannan_kvs@dell.com>",
+        "Org": "Others",
+        "Score": "17.50"
+    },
+    {
+        "Name": "johcheun",
+        "Org": "Others",
+        "Score": "17.40"
+    },
+    {
+        "Name": "kenneth-arista",
+        "Org": "Arista",
+        "Score": "17.40"
+    },
+    {
+        "Name": "kishanps",
+        "Org": "Google",
+        "Score": "17.40"
+    },
+    {
+        "Name": "maksympr",
+        "Org": "Nvidia",
+        "Score": "17.10"
+    },
+    {
+        "Name": "vincent201881",
+        "Org": "Others",
+        "Score": "16.80"
+    },
+    {
+        "Name": "MaxYaremchuk",
+        "Org": "Others",
+        "Score": "16.50"
+    },
+    {
+        "Name": "sholeksandr",
+        "Org": "Others",
+        "Score": "16.40"
+    },
+    {
+        "Name": "iMasaruOki",
+        "Org": "Internet Initiative Japan",
+        "Score": "16.25"
+    },
+    {
+        "Name": "InventecJamesHuang",
+        "Org": "Others",
+        "Score": "16.20"
+    },
+    {
+        "Name": "JohnFanDNI",
+        "Org": "Others",
+        "Score": "16.20"
+    },
+    {
+        "Name": "crzas",
+        "Org": "EdgeCore",
+        "Score": "16.00"
+    },
+    {
+        "Name": "martin-belanger",
+        "Org": "Dell Technologies",
+        "Score": "16.00"
+    },
+    {
+        "Name": "simone-dell",
+        "Org": "Dell Technologies",
+        "Score": "16.00"
+    },
+    {
+        "Name": "prafull-brcm",
+        "Org": "Others",
+        "Score": "15.70"
+    },
+    {
+        "Name": "mpiechocinski",
+        "Org": "Intel",
+        "Score": "15.50"
+    },
+    {
+        "Name": "li-pingmao",
+        "Org": "Linkedin",
+        "Score": "15.40"
+    },
+    {
+        "Name": "KrisNey-MSFT<krisney@microsoft.com>",
+        "Org": "Others",
+        "Score": "15.00"
+    },
+    {
+        "Name": "Michael Miele<v-mimiele@microsoft.com>",
+        "Org": "Others",
+        "Score": "15.00"
+    },
+    {
+        "Name": "RichardWu-Hebut",
+        "Org": "Tencent",
+        "Score": "15.00"
+    },
+    {
+        "Name": "SanjayTh",
+        "Org": "Others",
+        "Score": "15.00"
+    },
+    {
+        "Name": "Shuotian Cheng<shuche@microsoft.com>",
+        "Org": "Others",
+        "Score": "15.00"
+    },
+    {
+        "Name": "andriydnvd",
+        "Org": "Others",
+        "Score": "15.00"
+    },
+    {
+        "Name": "andriyz-nv",
+        "Org": "Nvidia",
+        "Score": "15.00"
+    },
+    {
+        "Name": "bhaveshdell",
+        "Org": "Dell Technologies",
+        "Score": "15.00"
+    },
+    {
+        "Name": "budgrise",
+        "Org": "Others",
+        "Score": "15.00"
+    },
+    {
+        "Name": "joej164",
+        "Org": "Others",
+        "Score": "15.00"
+    },
+    {
+        "Name": "mhanif",
+        "Org": "Broadcom",
+        "Score": "15.00"
+    },
+    {
+        "Name": "nirmalya-keysight",
+        "Org": "Keysight",
+        "Score": "15.00"
+    },
+    {
+        "Name": "orenreiss",
+        "Org": "Nvidia",
+        "Score": "15.00"
+    },
+    {
+        "Name": "ramachandrareddygaddam",
+        "Org": "Broadcom",
+        "Score": "15.00"
+    },
+    {
+        "Name": "schobtr",
+        "Org": "Celestica",
+        "Score": "15.00"
+    },
+    {
+        "Name": "hpersh",
+        "Org": "Others",
+        "Score": "14.80"
+    },
+    {
+        "Name": "atitjain",
+        "Org": "Others",
+        "Score": "14.70"
+    },
+    {
+        "Name": "leoli-nps",
+        "Org": "Others",
+        "Score": "14.55"
+    },
+    {
+        "Name": "antoninamelnyk",
+        "Org": "Intel",
+        "Score": "14.50"
+    },
+    {
+        "Name": "OlaOliynyk",
+        "Org": "Others",
+        "Score": "14.20"
+    },
+    {
+        "Name": "MaratGubaiev",
+        "Org": "Jabil",
+        "Score": "14.00"
+    },
+    {
+        "Name": "guillaumelambert",
+        "Org": "Orange",
+        "Score": "13.50"
+    },
+    {
+        "Name": "lizhuhuams",
+        "Org": "Microsoft",
+        "Score": "13.50"
+    },
+    {
+        "Name": "mdivyamohan",
+        "Org": "Others",
+        "Score": "13.50"
+    },
+    {
+        "Name": "smahara",
+        "Org": "Dell Technologies",
+        "Score": "13.50"
+    },
+    {
+        "Name": "gpaussabrcm",
+        "Org": "Broadcom",
+        "Score": "13.15"
+    },
+    {
+        "Name": "jasmeetbagga",
+        "Org": "Others",
+        "Score": "13.00"
+    },
+    {
+        "Name": "jemifdo",
+        "Org": "Others",
+        "Score": "13.00"
+    },
+    {
+        "Name": "kartik-arista",
+        "Org": "Arista",
+        "Score": "13.00"
+    },
+    {
+        "Name": "dan-arsenault",
+        "Org": "Broadcom",
+        "Score": "12.80"
+    },
+    {
+        "Name": "1002574903",
+        "Org": "Ragile",
+        "Score": "12.60"
+    },
+    {
+        "Name": "DawoodMehmood",
+        "Org": "xFlow Research",
+        "Score": "12.60"
+    },
+    {
+        "Name": "Minkang-Tsai",
+        "Org": "EdgeCore",
+        "Score": "12.60"
+    },
+    {
+        "Name": "Kebo Liu<kebol@mellanox.com>",
+        "Org": "Others",
+        "Score": "12.50"
+    },
+    {
+        "Name": "aganguly-keysight",
+        "Org": "Others",
+        "Score": "12.50"
+    },
+    {
+        "Name": "fredyu190011",
+        "Org": "Others",
+        "Score": "12.50"
+    },
+    {
+        "Name": "sandeep-kulambi",
+        "Org": "Broadcom",
+        "Score": "12.50"
+    },
+    {
+        "Name": "shihhsien-wang",
+        "Org": "EdgeCore",
+        "Score": "12.50"
+    },
+    {
+        "Name": "SuvenduMozumdar",
+        "Org": "Keysight",
+        "Score": "12.40"
+    },
+    {
+        "Name": "delta46101",
+        "Org": "Others",
+        "Score": "12.40"
+    },
+    {
+        "Name": "vishnushetty",
+        "Org": "Broadcom",
+        "Score": "12.40"
+    },
+    {
+        "Name": "jangidrk",
+        "Org": "Broadcom",
+        "Score": "12.30"
+    },
+    {
+        "Name": "CharlieChenEC",
+        "Org": "EdgeCore",
+        "Score": "12.25"
+    },
+    {
+        "Name": "dev-aviz",
+        "Org": "Others",
+        "Score": "12.20"
+    },
+    {
+        "Name": "snider-nokia",
+        "Org": "Others",
+        "Score": "12.10"
+    },
+    {
+        "Name": "AfraMariyam",
+        "Org": "Others",
+        "Score": "12.00"
+    },
+    {
+        "Name": "ArthiGovindaraj",
+        "Org": "Others",
+        "Score": "12.00"
+    },
+    {
+        "Name": "FunForNOS",
+        "Org": "Others",
+        "Score": "12.00"
+    },
+    {
+        "Name": "JaredLius",
+        "Org": "Others",
+        "Score": "12.00"
+    },
+    {
+        "Name": "JiangboHe",
+        "Org": "Others",
+        "Score": "12.00"
+    },
+    {
+        "Name": "LimorAmit",
+        "Org": "Others",
+        "Score": "12.00"
+    },
+    {
+        "Name": "William-zx",
+        "Org": "Others",
+        "Score": "12.00"
+    },
+    {
+        "Name": "bill-nokia",
+        "Org": "Others",
+        "Score": "12.00"
+    },
+    {
+        "Name": "cytsao1",
+        "Org": "Cisco",
+        "Score": "12.00"
+    },
+    {
+        "Name": "daniele-moro",
+        "Org": "Google",
+        "Score": "12.00"
+    },
+    {
+        "Name": "daxia16",
+        "Org": "Nvidia",
+        "Score": "12.00"
+    },
+    {
+        "Name": "deepak-singhal0408",
+        "Org": "Microsoft",
+        "Score": "12.00"
+    },
+    {
+        "Name": "echuawu",
+        "Org": "Nvidia",
+        "Score": "12.00"
+    },
+    {
+        "Name": "fyx",
+        "Org": "Others",
+        "Score": "12.00"
+    },
+    {
+        "Name": "harshitgulati18",
+        "Org": "Others",
+        "Score": "12.00"
+    },
+    {
+        "Name": "lihuay",
+        "Org": "Microsoft",
+        "Score": "12.00"
+    },
+    {
+        "Name": "lorchid",
+        "Org": "asterfusion",
+        "Score": "12.00"
+    },
+    {
+        "Name": "manjuv1",
+        "Org": "Others",
+        "Score": "12.00"
+    },
+    {
+        "Name": "mkovnir",
+        "Org": "Nvidia",
+        "Score": "12.00"
+    },
+    {
+        "Name": "prasanna-cls",
+        "Org": "Others",
+        "Score": "12.00"
+    },
+    {
+        "Name": "rskorka",
+        "Org": "Others",
+        "Score": "12.00"
+    },
+    {
+        "Name": "shilimkarvg",
+        "Org": "Others",
+        "Score": "12.00"
+    },
+    {
+        "Name": "suresh-rupanagudi",
+        "Org": "Broadcom",
+        "Score": "12.00"
+    },
+    {
+        "Name": "vsrivastav78",
+        "Org": "Others",
+        "Score": "12.00"
+    },
+    {
+        "Name": "richard28530",
+        "Org": "Others",
+        "Score": "11.95"
+    },
+    {
+        "Name": "sachinv-msft",
+        "Org": "Microsoft",
+        "Score": "11.65"
+    },
+    {
+        "Name": "ragu-raman",
+        "Org": "Others",
+        "Score": "11.40"
+    },
+    {
+        "Name": "abhiranjeet",
+        "Org": "Others",
+        "Score": "11.25"
+    },
+    {
+        "Name": "staneshieh",
+        "Org": "Others",
+        "Score": "11.20"
+    },
+    {
+        "Name": "mad4321",
+        "Org": "Others",
+        "Score": "11.00"
+    },
+    {
+        "Name": "sdddean",
+        "Org": "Others",
+        "Score": "11.00"
+    },
+    {
+        "Name": "vivekmoorthy",
+        "Org": "Google",
+        "Score": "11.00"
+    },
+    {
+        "Name": "xjasonlyu",
+        "Org": "Others",
+        "Score": "11.00"
+    },
+    {
+        "Name": "myronsosyak",
+        "Org": "Others",
+        "Score": "10.60"
+    },
+    {
+        "Name": "Arvind-Brcm",
+        "Org": "Broadcom",
+        "Score": "10.50"
+    },
+    {
+        "Name": "amulyan7",
+        "Org": "Cisco",
+        "Score": "10.50"
+    },
+    {
+        "Name": "jeromesun14",
+        "Org": "Tencent",
+        "Score": "10.50"
+    },
+    {
+        "Name": "nazeerhussainf",
+        "Org": "Others",
+        "Score": "10.50"
+    },
+    {
+        "Name": "stephengzh",
+        "Org": "Ruijie",
+        "Score": "10.25"
+    },
+    {
+        "Name": "abhishekd0",
+        "Org": "Broadcom",
+        "Score": "10.00"
+    },
+    {
+        "Name": "cytsai0409",
+        "Org": "ufispace",
+        "Score": "10.00"
+    },
+    {
+        "Name": "dr412113",
+        "Org": "Others",
+        "Score": "10.00"
+    },
+    {
+        "Name": "harish-kalyanaraman",
+        "Org": "Nokia",
+        "Score": "10.00"
+    },
+    {
+        "Name": "ryan44guo",
+        "Org": "inspur",
+        "Score": "10.00"
+    },
+    {
+        "Name": "steven-guo-ec",
+        "Org": "Others",
+        "Score": "10.00"
+    },
+    {
+        "Name": "zhanggongc",
+        "Org": "Others",
+        "Score": "10.00"
+    },
+    {
+        "Name": "jeff-yin",
+        "Org": "Dell Technologies",
+        "Score": "9.50"
+    },
+    {
+        "Name": "Stephenxf",
+        "Org": "Linkedin",
+        "Score": "9.35"
+    },
+    {
+        "Name": "rbpittman",
+        "Org": "Cisco",
+        "Score": "9.30"
+    },
+    {
+        "Name": "sanjair-git",
+        "Org": "Others",
+        "Score": "9.30"
+    },
+    {
+        "Name": "AharonMalkin",
+        "Org": "Nvidia",
+        "Score": "9.00"
+    },
+    {
+        "Name": "ajbalogh",
+        "Org": "Keysight",
+        "Score": "9.00"
+    },
+    {
+        "Name": "andriidovhan",
+        "Org": "Others",
+        "Score": "9.00"
+    },
+    {
+        "Name": "davidm-arista",
+        "Org": "Arista",
+        "Score": "9.00"
+    },
+    {
+        "Name": "jihaix",
+        "Org": "Baidu",
+        "Score": "9.00"
+    },
+    {
+        "Name": "ouxlwhu",
+        "Org": "asterfusion",
+        "Score": "9.00"
+    },
+    {
+        "Name": "prprakas",
+        "Org": "Linkedin",
+        "Score": "9.00"
+    },
+    {
+        "Name": "twtseng-tim",
+        "Org": "Others",
+        "Score": "8.90"
+    },
+    {
+        "Name": "irene-pan1202",
+        "Org": "Others",
+        "Score": "8.85"
+    },
+    {
+        "Name": "rameshsanth",
+        "Org": "Others",
+        "Score": "8.85"
+    },
+    {
+        "Name": "nazarii-gnydyn",
+        "Org": "Marvell",
+        "Score": "8.50"
+    },
+    {
+        "Name": "ITJamie",
+        "Org": "Others",
+        "Score": "8.10"
+    },
+    {
+        "Name": "BaluAlluru",
+        "Org": "Others",
+        "Score": "8.00"
+    },
+    {
+        "Name": "RayWang910012",
+        "Org": "EdgeCore",
+        "Score": "8.00"
+    },
+    {
+        "Name": "ashishb-juniper",
+        "Org": "Juniper",
+        "Score": "8.00"
+    },
+    {
+        "Name": "balajib-cisco",
+        "Org": "Cisco",
+        "Score": "8.00"
+    },
+    {
+        "Name": "chenpiaoping",
+        "Org": "Others",
+        "Score": "8.00"
+    },
+    {
+        "Name": "chenyq2",
+        "Org": "x networks",
+        "Score": "8.00"
+    },
+    {
+        "Name": "henzelis",
+        "Org": "Others",
+        "Score": "8.00"
+    },
+    {
+        "Name": "hpersh-dell",
+        "Org": "Dell Technologies",
+        "Score": "8.00"
+    },
+    {
+        "Name": "liron-ze",
+        "Org": "Baidu",
+        "Score": "8.00"
+    },
+    {
+        "Name": "nirenjan",
+        "Org": "Dell Technologies",
+        "Score": "8.00"
+    },
+    {
+        "Name": "okanchou9",
+        "Org": "ingrasys",
+        "Score": "8.00"
+    },
+    {
+        "Name": "thomas-am",
+        "Org": "Keysight",
+        "Score": "8.00"
+    },
+    {
+        "Name": "liuqu",
+        "Org": "Alibaba",
+        "Score": "7.90"
+    },
+    {
+        "Name": "SumitAgarwal123",
+        "Org": "Broadcom",
+        "Score": "7.50"
+    },
+    {
+        "Name": "anilsadineni",
+        "Org": "Broadcom",
+        "Score": "7.50"
+    },
+    {
+        "Name": "aseaudi",
+        "Org": "Others",
+        "Score": "7.50"
+    },
+    {
+        "Name": "collivier",
+        "Org": "Orange",
+        "Score": "7.50"
+    },
+    {
+        "Name": "dellwuchuan",
+        "Org": "Nvidia",
+        "Score": "7.50"
+    },
+    {
+        "Name": "dsetia-bfn",
+        "Org": "Intel",
+        "Score": "7.50"
+    },
+    {
+        "Name": "hari-selvam",
+        "Org": "Others",
+        "Score": "7.50"
+    },
+    {
+        "Name": "hehuang-nokia",
+        "Org": "Nokia",
+        "Score": "7.50"
+    },
+    {
+        "Name": "mslocrian",
+        "Org": "self",
+        "Score": "7.50"
+    },
+    {
+        "Name": "ntoorchi",
+        "Org": "Google",
+        "Score": "7.50"
+    },
+    {
+        "Name": "shdasari",
+        "Org": "Broadcom",
+        "Score": "7.50"
+    },
+    {
+        "Name": "sivamukka",
+        "Org": "Broadcom",
+        "Score": "7.50"
+    },
+    {
+        "Name": "zhengbiqing",
+        "Org": "Others",
+        "Score": "7.50"
+    },
+    {
+        "Name": "CLUDev",
+        "Org": "Others",
+        "Score": "7.00"
+    },
+    {
+        "Name": "Haidong988",
+        "Org": "Centec",
+        "Score": "7.00"
+    },
+    {
+        "Name": "dennis0113",
+        "Org": "EdgeCore",
+        "Score": "7.00"
+    },
+    {
+        "Name": "tengfei-astfs",
+        "Org": "asterfusion",
+        "Score": "7.00"
+    },
+    {
+        "Name": "tushar-ty",
+        "Org": "Broadcom",
+        "Score": "6.80"
+    },
+    {
+        "Name": "119064273",
+        "Org": "Others",
+        "Score": "6.75"
+    },
+    {
+        "Name": "Harrison-SH",
+        "Org": "Others",
+        "Score": "6.75"
+    },
+    {
+        "Name": "amitabhja",
+        "Org": "Others",
+        "Score": "6.50"
+    },
+    {
+        "Name": "guking3",
+        "Org": "Others",
+        "Score": "6.50"
+    },
+    {
+        "Name": "prvattem",
+        "Org": "Dell Technologies",
+        "Score": "6.30"
+    },
+    {
+        "Name": "ncalad",
+        "Org": "Others",
+        "Score": "6.25"
+    },
+    {
+        "Name": "tjcw",
+        "Org": "ibm",
+        "Score": "6.25"
+    },
+    {
+        "Name": "sunesh",
+        "Org": "Intel",
+        "Score": "6.20"
+    },
+    {
+        "Name": "wadelnn",
+        "Org": "ufispace",
+        "Score": "6.20"
+    },
+    {
+        "Name": "SathishKumarTR-Dell",
+        "Org": "Dell Technologies",
+        "Score": "6.10"
+    },
+    {
+        "Name": "BrandonCheng0121",
+        "Org": "EdgeCore",
+        "Score": "6.00"
+    },
+    {
+        "Name": "CliveNi",
+        "Org": "cloudlight",
+        "Score": "6.00"
+    },
+    {
+        "Name": "Deva-N",
+        "Org": "Others",
+        "Score": "6.00"
+    },
+    {
+        "Name": "KhoobBabe",
+        "Org": "xFlow Research",
+        "Score": "6.00"
+    },
+    {
+        "Name": "Liran-Ar",
+        "Org": "Others",
+        "Score": "6.00"
+    },
+    {
+        "Name": "MaksymPry",
+        "Org": "Others",
+        "Score": "6.00"
+    },
+    {
+        "Name": "andrewimeson",
+        "Org": "Others",
+        "Score": "6.00"
+    },
+    {
+        "Name": "arn-alt",
+        "Org": "Others",
+        "Score": "6.00"
+    },
+    {
+        "Name": "avinish-marvell",
+        "Org": "Others",
+        "Score": "6.00"
+    },
+    {
+        "Name": "busterswt",
+        "Org": "arcanebyte",
+        "Score": "6.00"
+    },
+    {
+        "Name": "dmukun",
+        "Org": "Others",
+        "Score": "6.00"
+    },
+    {
+        "Name": "dpetryshintl",
+        "Org": "Others",
+        "Score": "6.00"
+    },
+    {
+        "Name": "isabelladeleon12",
+        "Org": "Microsoft",
+        "Score": "6.00"
+    },
+    {
+        "Name": "kattamamatha",
+        "Org": "Others",
+        "Score": "6.00"
+    },
+    {
+        "Name": "lornelong",
+        "Org": "Cisco",
+        "Score": "6.00"
+    },
+    {
+        "Name": "madhupalu",
+        "Org": "Aviz Networks",
+        "Score": "6.00"
+    },
+    {
+        "Name": "mdak1909",
+        "Org": "Others",
+        "Score": "6.00"
+    },
+    {
+        "Name": "moshemos",
+        "Org": "Nvidia",
+        "Score": "6.00"
+    },
+    {
+        "Name": "mthatty",
+        "Org": "Others",
+        "Score": "6.00"
+    },
+    {
+        "Name": "qiwang4",
+        "Org": "Cisco",
+        "Score": "6.00"
+    },
+    {
+        "Name": "riverhong",
+        "Org": "EdgeCore",
+        "Score": "6.00"
+    },
+    {
+        "Name": "roger530-ho",
+        "Org": "Others",
+        "Score": "6.00"
+    },
+    {
+        "Name": "saikrishnagajula",
+        "Org": "Others",
+        "Score": "6.00"
+    },
+    {
+        "Name": "sampad1996",
+        "Org": "Others",
+        "Score": "6.00"
+    },
+    {
+        "Name": "scottlaird",
+        "Org": "Google",
+        "Score": "6.00"
+    },
+    {
+        "Name": "serhepopovych",
+        "Org": "Others",
+        "Score": "6.00"
+    },
+    {
+        "Name": "skbhava",
+        "Org": "Broadcom",
+        "Score": "6.00"
+    },
+    {
+        "Name": "sureshsekar28",
+        "Org": "Marvell",
+        "Score": "6.00"
+    },
+    {
+        "Name": "talber-nvidia",
+        "Org": "Others",
+        "Score": "6.00"
+    },
+    {
+        "Name": "utpalkantpintoo",
+        "Org": "Broadcom",
+        "Score": "6.00"
+    },
+    {
+        "Name": "vadimp-nvidia",
+        "Org": "Nvidia",
+        "Score": "6.00"
+    },
+    {
+        "Name": "vijayvyasm",
+        "Org": "Others",
+        "Score": "6.00"
+    },
+    {
+        "Name": "weiliu-ivy",
+        "Org": "Microsoft",
+        "Score": "6.00"
+    },
+    {
+        "Name": "Ezrickd",
+        "Org": "Others",
+        "Score": "5.90"
+    },
+    {
+        "Name": "hubblezzhu",
+        "Org": "Alibaba",
+        "Score": "5.50"
+    },
+    {
+        "Name": "peter-yu",
+        "Org": "EdgeCore",
+        "Score": "5.40"
+    },
+    {
+        "Name": "fillmorechen0928",
+        "Org": "Others",
+        "Score": "5.35"
+    },
+    {
+        "Name": "mfriyas",
+        "Org": "Others",
+        "Score": "5.30"
+    },
+    {
+        "Name": "uraghura",
+        "Org": "Others",
+        "Score": "5.25"
+    },
+    {
+        "Name": "dipalipatel25",
+        "Org": "Others",
+        "Score": "5.20"
+    },
+    {
+        "Name": "FMusatescu",
+        "Org": "Others",
+        "Score": "5.00"
+    },
+    {
+        "Name": "RajeshPukhrajJain",
+        "Org": "Broadcom",
+        "Score": "5.00"
+    },
+    {
+        "Name": "aystarik",
+        "Org": "Others",
+        "Score": "5.00"
+    },
+    {
+        "Name": "bhavini-gada",
+        "Org": "Dell",
+        "Score": "5.00"
+    },
+    {
+        "Name": "bpar9",
+        "Org": "Cisco",
+        "Score": "5.00"
+    },
+    {
+        "Name": "dkourkouzelis",
+        "Org": "Others",
+        "Score": "5.00"
+    },
+    {
+        "Name": "dpronin",
+        "Org": "n/a",
+        "Score": "5.00"
+    },
+    {
+        "Name": "elvistsai",
+        "Org": "Others",
+        "Score": "5.00"
+    },
+    {
+        "Name": "emilmih",
+        "Org": "Others",
+        "Score": "5.00"
+    },
+    {
+        "Name": "haowei1122",
+        "Org": "Others",
+        "Score": "5.00"
+    },
+    {
+        "Name": "hui-ma<huima@microsoft.com>",
+        "Org": "Others",
+        "Score": "5.00"
+    },
+    {
+        "Name": "joe-tricklebank-owens",
+        "Org": "Others",
+        "Score": "5.00"
+    },
+    {
+        "Name": "kakkotetsu",
+        "Org": "Others",
+        "Score": "5.00"
+    },
+    {
+        "Name": "lkunjumon",
+        "Org": "Others",
+        "Score": "5.00"
+    },
+    {
+        "Name": "yutatsuchiyamicrosoft",
+        "Org": "Microsoft",
+        "Score": "5.00"
+    },
+    {
+        "Name": "mkeda",
+        "Org": "Google",
+        "Score": "4.80"
+    },
+    {
+        "Name": "kielfriedt",
+        "Org": "arm",
+        "Score": "4.75"
+    },
+    {
+        "Name": "tw0byt3",
+        "Org": "Others",
+        "Score": "4.50"
+    },
+    {
+        "Name": "batmancn",
+        "Org": "Others",
+        "Score": "4.40"
+    },
+    {
+        "Name": "radha-danda",
+        "Org": "Marvell",
+        "Score": "4.40"
+    },
+    {
+        "Name": "Anandaraj-Maharajan",
+        "Org": "Others",
+        "Score": "4.30"
+    },
+    {
+        "Name": "cony7642",
+        "Org": "Others",
+        "Score": "4.30"
+    },
+    {
+        "Name": "gracelicd",
+        "Org": "Others",
+        "Score": "4.30"
+    },
+    {
+        "Name": "robert1030",
+        "Org": "tw",
+        "Score": "4.30"
+    },
+    {
+        "Name": "mipxman",
+        "Org": "Others",
+        "Score": "4.25"
+    },
+    {
+        "Name": "pjeyarat",
+        "Org": "Others",
+        "Score": "4.25"
+    },
+    {
+        "Name": "vikneels",
+        "Org": "Cisco",
+        "Score": "4.25"
+    },
+    {
+        "Name": "Str1ker17",
+        "Org": "Others",
+        "Score": "4.20"
+    },
+    {
+        "Name": "aaronpayment",
+        "Org": "Arista",
+        "Score": "4.20"
+    },
+    {
+        "Name": "deni64k",
+        "Org": "Others",
+        "Score": "4.20"
+    },
+    {
+        "Name": "vmytnykx",
+        "Org": "Intel",
+        "Score": "4.20"
+    },
+    {
+        "Name": "SinghMinu",
+        "Org": "Others",
+        "Score": "4.00"
+    },
+    {
+        "Name": "YaoTien",
+        "Org": "Others",
+        "Score": "4.00"
+    },
+    {
+        "Name": "borys-karpliak",
+        "Org": "Others",
+        "Score": "4.00"
+    },
+    {
+        "Name": "dinosn",
+        "Org": "Others",
+        "Score": "4.00"
+    },
+    {
+        "Name": "dlringor",
+        "Org": "Others",
+        "Score": "4.00"
+    },
+    {
+        "Name": "dushyantarora",
+        "Org": "Google",
+        "Score": "4.00"
+    },
+    {
+        "Name": "garigipati31",
+        "Org": "Others",
+        "Score": "4.00"
+    },
+    {
+        "Name": "hanstseng",
+        "Org": "Others",
+        "Score": "4.00"
+    },
+    {
+        "Name": "icchau",
+        "Org": "Others",
+        "Score": "4.00"
+    },
+    {
+        "Name": "jackyjs",
+        "Org": "Others",
+        "Score": "4.00"
+    },
+    {
+        "Name": "liatgrozovik",
+        "Org": "Nvidia",
+        "Score": "4.00"
+    },
+    {
+        "Name": "liujed-intel",
+        "Org": "Intel",
+        "Score": "4.00"
+    },
+    {
+        "Name": "okuzovych",
+        "Org": "plvision",
+        "Score": "4.00"
+    },
+    {
+        "Name": "rdarbha",
+        "Org": "Others",
+        "Score": "4.00"
+    },
+    {
+        "Name": "shawnli-van",
+        "Org": "Others",
+        "Score": "4.00"
+    },
+    {
+        "Name": "shawnxli",
+        "Org": "Others",
+        "Score": "4.00"
+    },
+    {
+        "Name": "vkuma82",
+        "Org": "Others",
+        "Score": "4.00"
+    },
+    {
+        "Name": "imzyxwvu",
+        "Org": "Others",
+        "Score": "3.90"
+    },
+    {
+        "Name": "tieguoevan",
+        "Org": "Alibaba",
+        "Score": "3.80"
+    },
+    {
+        "Name": "TyagiShailesh",
+        "Org": "Others",
+        "Score": "3.75"
+    },
+    {
+        "Name": "huanlev",
+        "Org": "Cisco",
+        "Score": "3.75"
+    },
+    {
+        "Name": "mbze430",
+        "Org": "Others",
+        "Score": "3.75"
+    },
+    {
+        "Name": "shall1024",
+        "Org": "Others",
+        "Score": "3.75"
+    },
+    {
+        "Name": "wjaco",
+        "Org": "Cisco",
+        "Score": "3.75"
+    },
+    {
+        "Name": "rajendrat",
+        "Org": "Cisco",
+        "Score": "3.60"
+    },
+    {
+        "Name": "StephenWangGoogle",
+        "Org": "Google",
+        "Score": "3.50"
+    },
+    {
+        "Name": "pcamaril",
+        "Org": "Others",
+        "Score": "3.50"
+    },
+    {
+        "Name": "skg-net",
+        "Org": "Dell Technologies",
+        "Score": "3.40"
+    },
+    {
+        "Name": "arpp93",
+        "Org": "Cisco",
+        "Score": "3.30"
+    },
+    {
+        "Name": "ChinaMobileNG",
+        "Org": "Teraspek",
+        "Score": "3.25"
+    },
+    {
+        "Name": "ljyfree",
+        "Org": "Centec",
+        "Score": "3.20"
+    },
+    {
+        "Name": "xinliu-seattle",
+        "Org": "Microsoft",
+        "Score": "3.05"
+    },
+    {
+        "Name": "Rancho333",
+        "Org": "Others",
+        "Score": "3.00"
+    },
+    {
+        "Name": "ansrajpu-git",
+        "Org": "Others",
+        "Score": "3.00"
+    },
+    {
+        "Name": "aslam-man",
+        "Org": "Others",
+        "Score": "3.00"
+    },
+    {
+        "Name": "aussieserverhosts",
+        "Org": "aussie server hosts",
+        "Score": "3.00"
+    },
+    {
+        "Name": "chiranjeevi-07",
+        "Org": "Others",
+        "Score": "3.00"
+    },
+    {
+        "Name": "cijurajan",
+        "Org": "Others",
+        "Score": "3.00"
+    },
+    {
+        "Name": "copyandrun",
+        "Org": "Others",
+        "Score": "3.00"
+    },
+    {
+        "Name": "dmjohn-marvell",
+        "Org": "Marvell",
+        "Score": "3.00"
+    },
+    {
+        "Name": "ezio-chen",
+        "Org": "EdgeCore",
+        "Score": "3.00"
+    },
+    {
+        "Name": "ixodie",
+        "Org": "Others",
+        "Score": "3.00"
+    },
+    {
+        "Name": "jpxjlrldgit",
+        "Org": "Broadcom",
+        "Score": "3.00"
+    },
+    {
+        "Name": "kant",
+        "Org": "Others",
+        "Score": "3.00"
+    },
+    {
+        "Name": "lokeshmarvell",
+        "Org": "Marvell",
+        "Score": "3.00"
+    },
+    {
+        "Name": "lyndonsiao",
+        "Org": "Others",
+        "Score": "3.00"
+    },
+    {
+        "Name": "mgheorghe",
+        "Org": "Keysight",
+        "Score": "3.00"
+    },
+    {
+        "Name": "nmoray-ebay",
+        "Org": "eBay",
+        "Score": "3.00"
+    },
+    {
+        "Name": "oleksandrKovtunenko",
+        "Org": "Jabil",
+        "Score": "3.00"
+    },
+    {
+        "Name": "phanindra-tv",
+        "Org": "Broadcom",
+        "Score": "3.00"
+    },
+    {
+        "Name": "randygaulmsft",
+        "Org": "Others",
+        "Score": "3.00"
+    },
+    {
+        "Name": "samuel-lee-msft",
+        "Org": "Microsoft",
+        "Score": "3.00"
+    },
+    {
+        "Name": "siddegowda1",
+        "Org": "Others",
+        "Score": "3.00"
+    },
+    {
+        "Name": "txj36",
+        "Org": "Others",
+        "Score": "3.00"
+    },
+    {
+        "Name": "veber-alex",
+        "Org": "Others",
+        "Score": "3.00"
+    },
+    {
+        "Name": "victorhooi",
+        "Org": "Google",
+        "Score": "3.00"
+    },
+    {
+        "Name": "yanjundeng",
+        "Org": "Cisco",
+        "Score": "3.00"
+    },
+    {
+        "Name": "zhuiwang",
+        "Org": "Others",
+        "Score": "3.00"
+    },
+    {
+        "Name": "mhampasagar",
+        "Org": "Dell Technologies",
+        "Score": "2.80"
+    },
+    {
+        "Name": "superchild",
+        "Org": "EdgeCore",
+        "Score": "2.75"
+    },
+    {
+        "Name": "lisahnguyen",
+        "Org": "Broadcom",
+        "Score": "2.70"
+    },
+    {
+        "Name": "SAI-shared-user",
+        "Org": "Others",
+        "Score": "2.65"
+    },
+    {
+        "Name": "Abdul-Raheem10",
+        "Org": "Broadcom",
+        "Score": "2.50"
+    },
+    {
+        "Name": "Quanta-Switch",
+        "Org": "Others",
+        "Score": "2.50"
+    },
+    {
+        "Name": "Rajpratik71",
+        "Org": "Others",
+        "Score": "2.50"
+    },
+    {
+        "Name": "TETA-Net",
+        "Org": "teta-co.ir",
+        "Score": "2.50"
+    },
+    {
+        "Name": "TzvikNVDA",
+        "Org": "Others",
+        "Score": "2.50"
+    },
+    {
+        "Name": "aledwmorris",
+        "Org": "Others",
+        "Score": "2.50"
+    },
+    {
+        "Name": "charlag",
+        "Org": "Tutao",
+        "Score": "2.50"
+    },
+    {
+        "Name": "dduttman",
+        "Org": "Others",
+        "Score": "2.50"
+    },
+    {
+        "Name": "dks19",
+        "Org": "Broadcom",
+        "Score": "2.50"
+    },
+    {
+        "Name": "henry-ma",
+        "Org": "Nvidia",
+        "Score": "2.50"
+    },
+    {
+        "Name": "jeffchen1988",
+        "Org": "Others",
+        "Score": "2.50"
+    },
+    {
+        "Name": "shishao7sxm",
+        "Org": "Alibaba",
+        "Score": "2.50"
+    },
+    {
+        "Name": "skraza",
+        "Org": "Cisco",
+        "Score": "2.50"
+    },
+    {
+        "Name": "zebracrowd",
+        "Org": "Others",
+        "Score": "2.50"
+    },
+    {
+        "Name": "jarias-lfx",
+        "Org": "the linux foundation",
+        "Score": "2.40"
+    },
+    {
+        "Name": "JafarSeyedi",
+        "Org": "Others",
+        "Score": "2.35"
+    },
+    {
+        "Name": "rpjain-nw",
+        "Org": "Others",
+        "Score": "2.30"
+    },
+    {
+        "Name": "Russell123987",
+        "Org": "Others",
+        "Score": "2.25"
+    },
+    {
+        "Name": "bahirul",
+        "Org": "Others",
+        "Score": "2.25"
+    },
+    {
+        "Name": "chaichairiko",
+        "Org": "Others",
+        "Score": "2.25"
+    },
+    {
+        "Name": "muhammad51",
+        "Org": "Others",
+        "Score": "2.25"
+    },
+    {
+        "Name": "avi-milner",
+        "Org": "Marvell",
+        "Score": "2.10"
+    },
+    {
+        "Name": "paulnice",
+        "Org": "Others",
+        "Score": "2.10"
+    },
+    {
+        "Name": "HolyShitMan",
+        "Org": "tu ilmenau",
+        "Score": "2.00"
+    },
+    {
+        "Name": "MaxPolovyi",
+        "Org": "Others",
+        "Score": "2.00"
+    },
+    {
+        "Name": "OPetryshyn",
+        "Org": "Others",
+        "Score": "2.00"
+    },
+    {
+        "Name": "SolankiTrignesh",
+        "Org": "Others",
+        "Score": "2.00"
+    },
+    {
+        "Name": "ching-kuo",
+        "Org": "mirantis",
+        "Score": "2.00"
+    },
+    {
+        "Name": "davidfordouce",
+        "Org": "Others",
+        "Score": "2.00"
+    },
+    {
+        "Name": "denis-maslov",
+        "Org": "globallogic",
+        "Score": "2.00"
+    },
+    {
+        "Name": "dsatterw",
+        "Org": "Others",
+        "Score": "2.00"
+    },
+    {
+        "Name": "duhbbx",
+        "Org": "Others",
+        "Score": "2.00"
+    },
+    {
+        "Name": "eiendragon",
+        "Org": "Others",
+        "Score": "2.00"
+    },
+    {
+        "Name": "ivlee1",
+        "Org": "Microsoft",
+        "Score": "2.00"
+    },
+    {
+        "Name": "justin-oliver",
+        "Org": "Broadcom",
+        "Score": "2.00"
+    },
+    {
+        "Name": "leeprecy",
+        "Org": "Broadcom",
+        "Score": "2.00"
+    },
+    {
+        "Name": "manish-volansys",
+        "Org": "Others",
+        "Score": "2.00"
+    },
+    {
+        "Name": "rick-yhchen1013",
+        "Org": "wt microelectronics",
+        "Score": "2.00"
+    },
+    {
+        "Name": "samitabh",
+        "Org": "Broadcom",
+        "Score": "2.00"
+    },
+    {
+        "Name": "tientienle",
+        "Org": "Others",
+        "Score": "2.00"
+    },
+    {
+        "Name": "trignesh",
+        "Org": "Others",
+        "Score": "2.00"
+    },
+    {
+        "Name": "vivekvijaykumar",
+        "Org": "Others",
+        "Score": "2.00"
+    },
+    {
+        "Name": "willieken559099",
+        "Org": "Others",
+        "Score": "2.00"
+    },
+    {
+        "Name": "xiaodaoaa",
+        "Org": "Others",
+        "Score": "2.00"
+    },
+    {
+        "Name": "zubinshah",
+        "Org": "Others",
+        "Score": "2.00"
+    },
+    {
+        "Name": "albgonzpri",
+        "Org": "Microsoft",
+        "Score": "1.90"
+    },
+    {
+        "Name": "skytreat",
+        "Org": "Microsoft",
+        "Score": "1.90"
+    },
+    {
+        "Name": "DhinakaranDayalan",
+        "Org": "Others",
+        "Score": "1.80"
+    },
+    {
+        "Name": "TencentSwitchGroup",
+        "Org": "Tencent",
+        "Score": "1.80"
+    },
+    {
+        "Name": "arkadiyshapiro",
+        "Org": "VMware",
+        "Score": "1.80"
+    },
+    {
+        "Name": "Battier",
+        "Org": "Others",
+        "Score": "1.80"
+    },
+    {
+        "Name": "bmridul",
+        "Org": "Cisco",
+        "Score": "1.80"
+    },
+    {
+        "Name": "losha228",
+        "Org": "Microsoft",
+        "Score": "1.80"
+    },
+    {
+        "Name": "tomek-US",
+        "Org": "Google",
+        "Score": "1.80"
+    },
+    {
+        "Name": "wangzhClounix",
+        "Org": "Others",
+        "Score": "1.80"
+    },
+    {
+        "Name": "amar304",
+        "Org": "Others",
+        "Score": "1.75"
+    },
+    {
+        "Name": "v-wfarris",
+        "Org": "Others",
+        "Score": "1.75"
+    },
+    {
+        "Name": "msreddypaluru",
+        "Org": "Others",
+        "Score": "1.60"
+    },
+    {
+        "Name": "AStrangwood",
+        "Org": "Others",
+        "Score": "1.50"
+    },
+    {
+        "Name": "GAcharyaIndia",
+        "Org": "Others",
+        "Score": "1.50"
+    },
+    {
+        "Name": "JSpewock",
+        "Org": "Others",
+        "Score": "1.50"
+    },
+    {
+        "Name": "Japanavt",
+        "Org": "Others",
+        "Score": "1.50"
+    },
+    {
+        "Name": "OTaoZh",
+        "Org": "Others",
+        "Score": "1.50"
+    },
+    {
+        "Name": "Pesa",
+        "Org": "USnistgov",
+        "Score": "1.50"
+    },
+    {
+        "Name": "Sandeepsr",
+        "Org": "Others",
+        "Score": "1.50"
+    },
+    {
+        "Name": "SudharshanSuresh",
+        "Org": "Others",
+        "Score": "1.50"
+    },
+    {
+        "Name": "SviatoslavNastasiak",
+        "Org": "Others",
+        "Score": "1.50"
+    },
+    {
+        "Name": "YanChii",
+        "Org": "Others",
+        "Score": "1.50"
+    },
+    {
+        "Name": "Zmegolaz",
+        "Org": "Others",
+        "Score": "1.50"
+    },
+    {
+        "Name": "abudaoweng",
+        "Org": "Others",
+        "Score": "1.50"
+    },
+    {
+        "Name": "adamx-xk",
+        "Org": "Others",
+        "Score": "1.50"
+    },
+    {
+        "Name": "ajuse",
+        "Org": "Others",
+        "Score": "1.50"
+    },
+    {
+        "Name": "appleCh",
+        "Org": "Others",
+        "Score": "1.50"
+    },
+    {
+        "Name": "aruljeniston",
+        "Org": "Others",
+        "Score": "1.50"
+    },
+    {
+        "Name": "ashwin-h",
+        "Org": "Others",
+        "Score": "1.50"
+    },
+    {
+        "Name": "aslam4g",
+        "Org": "Others",
+        "Score": "1.50"
+    },
+    {
+        "Name": "bigwboy",
+        "Org": "Others",
+        "Score": "1.50"
+    },
+    {
+        "Name": "brianlin-ec",
+        "Org": "Others",
+        "Score": "1.50"
+    },
+    {
+        "Name": "bsbsrkg",
+        "Org": "Others",
+        "Score": "1.50"
+    },
+    {
+        "Name": "coolkidBigEye",
+        "Org": "Others",
+        "Score": "1.50"
+    },
+    {
+        "Name": "dcantunes123",
+        "Org": "Others",
+        "Score": "1.50"
+    },
+    {
+        "Name": "feanis",
+        "Org": "Others",
+        "Score": "1.50"
+    },
+    {
+        "Name": "florath",
+        "Org": "Others",
+        "Score": "1.50"
+    },
+    {
+        "Name": "galdem6",
+        "Org": "Others",
+        "Score": "1.50"
+    },
+    {
+        "Name": "gavinht21",
+        "Org": "Others",
+        "Score": "1.50"
+    },
+    {
+        "Name": "guangjung",
+        "Org": "Others",
+        "Score": "1.50"
+    },
+    {
+        "Name": "iancote",
+        "Org": "Others",
+        "Score": "1.50"
+    },
+    {
+        "Name": "inspurTW",
+        "Org": "Others",
+        "Score": "1.50"
+    },
+    {
+        "Name": "jSML4ThWwBID69YC",
+        "Org": "Others",
+        "Score": "1.50"
+    },
+    {
+        "Name": "jboomer",
+        "Org": "Others",
+        "Score": "1.50"
+    },
+    {
+        "Name": "laiguoliang-lyr",
+        "Org": "Others",
+        "Score": "1.50"
+    },
+    {
+        "Name": "linyutsung",
+        "Org": "ufispace",
+        "Score": "1.50"
+    },
+    {
+        "Name": "madhukar-kamarapu",
+        "Org": "Broadcom",
+        "Score": "1.50"
+    },
+    {
+        "Name": "mohannai",
+        "Org": "Others",
+        "Score": "1.50"
+    },
+    {
+        "Name": "nand0104",
+        "Org": "Others",
+        "Score": "1.50"
+    },
+    {
+        "Name": "netmanyys",
+        "Org": "Others",
+        "Score": "1.50"
+    },
+    {
+        "Name": "odd22",
+        "Org": "Orange",
+        "Score": "1.50"
+    },
+    {
+        "Name": "oplklum",
+        "Org": "Others",
+        "Score": "1.50"
+    },
+    {
+        "Name": "perry1106",
+        "Org": "Others",
+        "Score": "1.50"
+    },
+    {
+        "Name": "ranjekum",
+        "Org": "Others",
+        "Score": "1.50"
+    },
+    {
+        "Name": "richmondstacey",
+        "Org": "Others",
+        "Score": "1.50"
+    },
+    {
+        "Name": "sahiltyagi4",
+        "Org": "@rbccps-iisc @dreamlabin",
+        "Score": "1.50"
+    },
+    {
+        "Name": "salvadorb",
+        "Org": "Others",
+        "Score": "1.50"
+    },
+    {
+        "Name": "sameerdell",
+        "Org": "Dell",
+        "Score": "1.50"
+    },
+    {
+        "Name": "sflow",
+        "Org": "Others",
+        "Score": "1.50"
+    },
+    {
+        "Name": "shinoharakazuya",
+        "Org": "Others",
+        "Score": "1.50"
+    },
+    {
+        "Name": "sif7en",
+        "Org": "Others",
+        "Score": "1.50"
+    },
+    {
+        "Name": "songlinglingpml",
+        "Org": "Others",
+        "Score": "1.50"
+    },
+    {
+        "Name": "swapwz",
+        "Org": "H3C",
+        "Score": "1.50"
+    },
+    {
+        "Name": "tobzsc",
+        "Org": "Others",
+        "Score": "1.50"
+    },
+    {
+        "Name": "toggit",
+        "Org": "Others",
+        "Score": "1.50"
+    },
+    {
+        "Name": "tshalvi",
+        "Org": "Nvidia",
+        "Score": "1.50"
+    },
+    {
+        "Name": "vidhya-rajan",
+        "Org": "Others",
+        "Score": "1.50"
+    },
+    {
+        "Name": "yueyihui",
+        "Org": "china",
+        "Score": "1.50"
+    },
+    {
+        "Name": "zhangineer",
+        "Org": "wwt",
+        "Score": "1.50"
+    },
+    {
+        "Name": "zouzhao6",
+        "Org": "Others",
+        "Score": "1.50"
+    },
+    {
+        "Name": "vemulabalaji",
+        "Org": "Others",
+        "Score": "1.45"
+    },
+    {
+        "Name": "DhanaDell",
+        "Org": "Dell Technologies",
+        "Score": "1.40"
+    },
+    {
+        "Name": "shaoshouping",
+        "Org": "Ruijie",
+        "Score": "1.40"
+    },
+    {
+        "Name": "tanpinsiang",
+        "Org": "Others",
+        "Score": "1.40"
+    },
+    {
+        "Name": "amin-alavi",
+        "Org": "Broadcom",
+        "Score": "1.30"
+    },
+    {
+        "Name": "123toorc",
+        "Org": "university of edinburgh",
+        "Score": "1.25"
+    },
+    {
+        "Name": "Ariadw",
+        "Org": "Others",
+        "Score": "1.25"
+    },
+    {
+        "Name": "CNM777",
+        "Org": "Others",
+        "Score": "1.25"
+    },
+    {
+        "Name": "Grim-lock",
+        "Org": "Alibaba",
+        "Score": "1.25"
+    },
+    {
+        "Name": "Jarvx",
+        "Org": "Others",
+        "Score": "1.25"
+    },
+    {
+        "Name": "Komil-yc",
+        "Org": "Others",
+        "Score": "1.25"
+    },
+    {
+        "Name": "NoySa",
+        "Org": "Others",
+        "Score": "1.25"
+    },
+    {
+        "Name": "PRAVEEN-BABY",
+        "Org": "Others",
+        "Score": "1.25"
+    },
+    {
+        "Name": "Prashankalikotayt",
+        "Org": "Others",
+        "Score": "1.25"
+    },
+    {
+        "Name": "Tsingsoon",
+        "Org": "Others",
+        "Score": "1.25"
+    },
+    {
+        "Name": "allanstreib",
+        "Org": "Others",
+        "Score": "1.25"
+    },
+    {
+        "Name": "cpackham-atlnz",
+        "Org": "Others",
+        "Score": "1.25"
+    },
+    {
+        "Name": "eyal-horn-nvidia",
+        "Org": "Others",
+        "Score": "1.25"
+    },
+    {
+        "Name": "ezware",
+        "Org": "Others",
+        "Score": "1.25"
+    },
+    {
+        "Name": "fire-ant",
+        "Org": "Others",
+        "Score": "1.25"
+    },
+    {
+        "Name": "gck-04",
+        "Org": "Others",
+        "Score": "1.25"
+    },
+    {
+        "Name": "gcupryn",
+        "Org": "Intel",
+        "Score": "1.25"
+    },
+    {
+        "Name": "grantcurell",
+        "Org": "Dell Technologies",
+        "Score": "1.25"
+    },
+    {
+        "Name": "gukunqing",
+        "Org": "Others",
+        "Score": "1.25"
+    },
+    {
+        "Name": "jeremytouve",
+        "Org": "GenesisCloud",
+        "Score": "1.25"
+    },
+    {
+        "Name": "jhujhiti",
+        "Org": "Others",
+        "Score": "1.25"
+    },
+    {
+        "Name": "joyantamishu",
+        "Org": "Others",
+        "Score": "1.25"
+    },
+    {
+        "Name": "kidoflamancha",
+        "Org": "Others",
+        "Score": "1.25"
+    },
+    {
+        "Name": "ksubashh",
+        "Org": "Others",
+        "Score": "1.25"
+    },
+    {
+        "Name": "kwang789",
+        "Org": "Others",
+        "Score": "1.25"
+    },
+    {
+        "Name": "lgbin879",
+        "Org": "Others",
+        "Score": "1.25"
+    },
+    {
+        "Name": "longruiliu",
+        "Org": "buaa",
+        "Score": "1.25"
+    },
+    {
+        "Name": "mahdiniya5252",
+        "Org": "Others",
+        "Score": "1.25"
+    },
+    {
+        "Name": "mathershifter",
+        "Org": "Arista",
+        "Score": "1.25"
+    },
+    {
+        "Name": "mpfau",
+        "Org": "Others",
+        "Score": "1.25"
+    },
+    {
+        "Name": "mtchhor",
+        "Org": "Others",
+        "Score": "1.25"
+    },
+    {
+        "Name": "nishi4321",
+        "Org": "Others",
+        "Score": "1.25"
+    },
+    {
+        "Name": "rudubey",
+        "Org": "Others",
+        "Score": "1.25"
+    },
+    {
+        "Name": "shanshri",
+        "Org": "pensnado",
+        "Score": "1.25"
+    },
+    {
+        "Name": "shaukathsathar",
+        "Org": "Others",
+        "Score": "1.25"
+    },
+    {
+        "Name": "slrflr",
+        "Org": "Others",
+        "Score": "1.25"
+    },
+    {
+        "Name": "ushax",
+        "Org": "Others",
+        "Score": "1.25"
+    },
+    {
+        "Name": "ymc-dabe",
+        "Org": "ymc ag",
+        "Score": "1.25"
+    },
+    {
+        "Name": "zhuangjh3",
+        "Org": "Others",
+        "Score": "1.25"
+    },
+    {
+        "Name": "gbmsft",
+        "Org": "Microsoft",
+        "Score": "1.20"
+    },
+    {
+        "Name": "MikeHcChen",
+        "Org": "Others",
+        "Score": "1.20"
+    },
+    {
+        "Name": "Yarden-Z",
+        "Org": "Nvidia",
+        "Score": "1.20"
+    },
+    {
+        "Name": "github-code-scanning",
+        "Org": "Others",
+        "Score": "1.20"
+    },
+    {
+        "Name": "lazc",
+        "Org": "Microsoft",
+        "Score": "1.20"
+    },
+    {
+        "Name": "vdahiya",
+        "Org": "Others",
+        "Score": "1.20"
+    },
+    {
+        "Name": "santoshdoke",
+        "Org": "Broadcom",
+        "Score": "1.10"
+    },
+    {
+        "Name": "svsivm",
+        "Org": "Others",
+        "Score": "1.10"
+    },
+    {
+        "Name": "DeepanSaha",
+        "Org": "Others",
+        "Score": "1.00"
+    },
+    {
+        "Name": "DukeOwlington",
+        "Org": "Others",
+        "Score": "1.00"
+    },
+    {
+        "Name": "Eric-Zaluzec-Vertiv",
+        "Org": "vertiv",
+        "Score": "1.00"
+    },
+    {
+        "Name": "FLYFLYFL",
+        "Org": "Others",
+        "Score": "1.00"
+    },
+    {
+        "Name": "ForzaTian",
+        "Org": "red mud village",
+        "Score": "1.00"
+    },
+    {
+        "Name": "HelenHZhang",
+        "Org": "Others",
+        "Score": "1.00"
+    },
+    {
+        "Name": "Israel-Meilik",
+        "Org": "Broadcom",
+        "Score": "1.00"
+    },
+    {
+        "Name": "LaveenBrcm",
+        "Org": "Broadcom",
+        "Score": "1.00"
+    },
+    {
+        "Name": "Linda5067",
+        "Org": "Others",
+        "Score": "1.00"
+    },
+    {
+        "Name": "MalteJ",
+        "Org": "sap",
+        "Score": "1.00"
+    },
+    {
+        "Name": "MheniMerz",
+        "Org": "USnistgov",
+        "Score": "1.00"
+    },
+    {
+        "Name": "NehaRajeM",
+        "Org": "Microsoft",
+        "Score": "1.00"
+    },
+    {
+        "Name": "alanC-Cameo",
+        "Org": "Others",
+        "Score": "1.00"
+    },
+    {
+        "Name": "andriymoroz",
+        "Org": "Others",
+        "Score": "1.00"
+    },
+    {
+        "Name": "andyivanov",
+        "Org": "Microsoft",
+        "Score": "1.00"
+    },
+    {
+        "Name": "asha-behera",
+        "Org": "Broadcom",
+        "Score": "1.00"
+    },
+    {
+        "Name": "babu-s2",
+        "Org": "Others",
+        "Score": "1.00"
+    },
+    {
+        "Name": "bwebb94",
+        "Org": "Others",
+        "Score": "1.00"
+    },
+    {
+        "Name": "daddiaz",
+        "Org": "Others",
+        "Score": "1.00"
+    },
+    {
+        "Name": "dungru",
+        "Org": "Others",
+        "Score": "1.00"
+    },
+    {
+        "Name": "holmanb",
+        "Org": "Canonical",
+        "Score": "1.00"
+    },
+    {
+        "Name": "jklare",
+        "Org": "Others",
+        "Score": "1.00"
+    },
+    {
+        "Name": "joraff",
+        "Org": "Texas A&M University",
+        "Score": "1.00"
+    },
+    {
+        "Name": "krambn",
+        "Org": "Others",
+        "Score": "1.00"
+    },
+    {
+        "Name": "kumarph",
+        "Org": "Others",
+        "Score": "1.00"
+    },
+    {
+        "Name": "lockless",
+        "Org": "Others",
+        "Score": "1.00"
+    },
+    {
+        "Name": "maq123",
+        "Org": "Others",
+        "Score": "1.00"
+    },
+    {
+        "Name": "melsom",
+        "Org": "terrahost as",
+        "Score": "1.00"
+    },
+    {
+        "Name": "mgrzybowski",
+        "Org": "Others",
+        "Score": "1.00"
+    },
+    {
+        "Name": "michael-bu",
+        "Org": "Others",
+        "Score": "1.00"
+    },
+    {
+        "Name": "mkjprior",
+        "Org": "Others",
+        "Score": "1.00"
+    },
+    {
+        "Name": "motinisim",
+        "Org": "Others",
+        "Score": "1.00"
+    },
+    {
+        "Name": "nasbdh9",
+        "Org": "Others",
+        "Score": "1.00"
+    },
+    {
+        "Name": "nupurjai",
+        "Org": "Intel",
+        "Score": "1.00"
+    },
+    {
+        "Name": "pawmas",
+        "Org": "Others",
+        "Score": "1.00"
+    },
+    {
+        "Name": "peggy-chu",
+        "Org": "Others",
+        "Score": "1.00"
+    },
+    {
+        "Name": "pshulik",
+        "Org": "Jabil",
+        "Score": "1.00"
+    },
+    {
+        "Name": "rpjday",
+        "Org": "crash course",
+        "Score": "1.00"
+    },
+    {
+        "Name": "sowri1",
+        "Org": "Others",
+        "Score": "1.00"
+    },
+    {
+        "Name": "sramkrishna",
+        "Org": "Intel",
+        "Score": "1.00"
+    },
+    {
+        "Name": "tadengmsft",
+        "Org": "Microsoft",
+        "Score": "1.00"
+    },
+    {
+        "Name": "wangluochao902",
+        "Org": "texas a&m university",
+        "Score": "1.00"
+    },
+    {
+        "Name": "wjf1993",
+        "Org": "Others",
+        "Score": "1.00"
+    },
+    {
+        "Name": "hongrun007",
+        "Org": "Others",
+        "Score": "0.90"
+    },
+    {
+        "Name": "JLevesque84",
+        "Org": "Others",
+        "Score": "0.80"
+    },
+    {
+        "Name": "Prasanth-KV",
+        "Org": "Broadcom",
+        "Score": "0.80"
+    },
+    {
+        "Name": "briantopping",
+        "Org": "sap",
+        "Score": "0.80"
+    },
+    {
+        "Name": "jcmathews",
+        "Org": "Others",
+        "Score": "0.80"
+    },
+    {
+        "Name": "praveen5582",
+        "Org": "Others",
+        "Score": "0.80"
+    },
+    {
+        "Name": "3Hren",
+        "Org": "sonm",
+        "Score": "0.75"
+    },
+    {
+        "Name": "CnaZhao",
+        "Org": "Others",
+        "Score": "0.75"
+    },
+    {
+        "Name": "hustleige2003",
+        "Org": "Others",
+        "Score": "0.75"
+    },
+    {
+        "Name": "jaygmuru",
+        "Org": "Cisco",
+        "Score": "0.75"
+    },
+    {
+        "Name": "jmzou",
+        "Org": "Others",
+        "Score": "0.75"
+    },
+    {
+        "Name": "justin-lu-lyc",
+        "Org": "Others",
+        "Score": "0.75"
+    },
+    {
+        "Name": "scjuang",
+        "Org": "EdgeCore",
+        "Score": "0.75"
+    },
+    {
+        "Name": "shihdada",
+        "Org": "Others",
+        "Score": "0.75"
+    },
+    {
+        "Name": "jackyjsliu",
+        "Org": "Others",
+        "Score": "0.70"
+    },
+    {
+        "Name": "Blyschak",
+        "Org": "Others",
+        "Score": "0.60"
+    },
+    {
+        "Name": "IGordynskyi",
+        "Org": "Others",
+        "Score": "0.60"
+    },
+    {
+        "Name": "kuomarcel",
+        "Org": "Others",
+        "Score": "0.60"
+    },
+    {
+        "Name": "tombo315",
+        "Org": "Oracle",
+        "Score": "0.60"
+    },
+    {
+        "Name": "TomFletcher0",
+        "Org": "Others",
+        "Score": "0.60"
+    },
+    {
+        "Name": "Yuval-Mellanox",
+        "Org": "Nvidia",
+        "Score": "0.60"
+    },
+    {
+        "Name": "amaragra",
+        "Org": "Others",
+        "Score": "0.60"
+    },
+    {
+        "Name": "bhagatyj",
+        "Org": "Google",
+        "Score": "0.60"
+    },
+    {
+        "Name": "boralt",
+        "Org": "fungible",
+        "Score": "0.60"
+    },
+    {
+        "Name": "elibritstein",
+        "Org": "Others",
+        "Score": "0.60"
+    },
+    {
+        "Name": "hsincsu",
+        "Org": "Others",
+        "Score": "0.60"
+    },
+    {
+        "Name": "karthikarum",
+        "Org": "Others",
+        "Score": "0.60"
+    },
+    {
+        "Name": "kishoreatreya",
+        "Org": "Marvell",
+        "Score": "0.60"
+    },
+    {
+        "Name": "nanteby",
+        "Org": "Others",
+        "Score": "0.60"
+    },
+    {
+        "Name": "ranjinidn",
+        "Org": "Dell Technologies",
+        "Score": "0.60"
+    },
+    {
+        "Name": "ritalhui",
+        "Org": "Others",
+        "Score": "0.60"
+    },
+    {
+        "Name": "sgurram",
+        "Org": "Others",
+        "Score": "0.60"
+    },
+    {
+        "Name": "wschwartz",
+        "Org": "Broadcom",
+        "Score": "0.60"
+    },
+    {
+        "Name": "ylu7283",
+        "Org": "Others",
+        "Score": "0.60"
+    },
+    {
+        "Name": "Alibaba-Sonic",
+        "Org": "Others",
+        "Score": "0.50"
+    },
+    {
+        "Name": "AndriyZabavskyy",
+        "Org": "plvision",
+        "Score": "0.50"
+    },
+    {
+        "Name": "BRCM-DevOps",
+        "Org": "Others",
+        "Score": "0.50"
+    },
+    {
+        "Name": "JohnSalloway",
+        "Org": "Others",
+        "Score": "0.50"
+    },
+    {
+        "Name": "MickeyZhan",
+        "Org": "Others",
+        "Score": "0.50"
+    },
+    {
+        "Name": "Mrak-IW",
+        "Org": "Others",
+        "Score": "0.50"
+    },
+    {
+        "Name": "ShwetaChahar",
+        "Org": "Others",
+        "Score": "0.50"
+    },
+    {
+        "Name": "VitalySav",
+        "Org": "Others",
+        "Score": "0.50"
+    },
+    {
+        "Name": "andriy-kokhan",
+        "Org": "plvision",
+        "Score": "0.50"
+    },
+    {
+        "Name": "brcmnokia",
+        "Org": "Others",
+        "Score": "0.50"
+    },
+    {
+        "Name": "doicom",
+        "Org": "Others",
+        "Score": "0.50"
+    },
+    {
+        "Name": "fengyingling",
+        "Org": "Others",
+        "Score": "0.50"
+    },
+    {
+        "Name": "hesingh",
+        "Org": "none",
+        "Score": "0.50"
+    },
+    {
+        "Name": "jonharrisonms",
+        "Org": "Microsoft",
+        "Score": "0.50"
+    },
+    {
+        "Name": "jorenwu84",
+        "Org": "Others",
+        "Score": "0.50"
+    },
+    {
+        "Name": "kaichunCc",
+        "Org": "Others",
+        "Score": "0.50"
+    },
+    {
+        "Name": "konne88",
+        "Org": "Others",
+        "Score": "0.50"
+    },
+    {
+        "Name": "muindurk",
+        "Org": "Others",
+        "Score": "0.50"
+    },
+    {
+        "Name": "phx420",
+        "Org": "Others",
+        "Score": "0.50"
+    },
+    {
+        "Name": "ritahui",
+        "Org": "Others",
+        "Score": "0.50"
+    },
+    {
+        "Name": "roweisch",
+        "Org": "Others",
+        "Score": "0.50"
+    },
+    {
+        "Name": "ryanmusic",
+        "Org": "Others",
+        "Score": "0.50"
+    },
+    {
+        "Name": "smolkaj",
+        "Org": "Google",
+        "Score": "0.50"
+    },
+    {
+        "Name": "sonic-qct",
+        "Org": "Others",
+        "Score": "0.50"
+    },
+    {
+        "Name": "sslvjun",
+        "Org": "Others",
+        "Score": "0.50"
+    },
+    {
+        "Name": "sudurais",
+        "Org": "Others",
+        "Score": "0.50"
+    },
+    {
+        "Name": "tarundeepsharma88",
+        "Org": "Others",
+        "Score": "0.50"
+    },
+    {
+        "Name": "toreanderson",
+        "Org": "@redpill-linpro",
+        "Score": "0.50"
+    },
+    {
+        "Name": "yintao1995",
+        "Org": "Others",
+        "Score": "0.50"
+    },
+    {
+        "Name": "zhaoxiaoke",
+        "Org": "Others",
+        "Score": "0.50"
+    },
+    {
+        "Name": "FaithRobben",
+        "Org": "Others",
+        "Score": "0.40"
+    },
+    {
+        "Name": "Mrvl-BenjaminHuang",
+        "Org": "Others",
+        "Score": "0.40"
+    },
+    {
+        "Name": "andrewchoi5",
+        "Org": "Microsoft",
+        "Score": "0.40"
+    },
+    {
+        "Name": "atanu-mandal",
+        "Org": "Others",
+        "Score": "0.40"
+    },
+    {
+        "Name": "cookiesowns",
+        "Org": "first mode",
+        "Score": "0.40"
+    },
+    {
+        "Name": "dipali0125",
+        "Org": "Others",
+        "Score": "0.40"
+    },
+    {
+        "Name": "dproc",
+        "Org": "Others",
+        "Score": "0.40"
+    },
+    {
+        "Name": "idle-meerkat",
+        "Org": "Others",
+        "Score": "0.40"
+    },
+    {
+        "Name": "jala-dx",
+        "Org": "replicated inc.",
+        "Score": "0.40"
+    },
+    {
+        "Name": "jpsenior",
+        "Org": "Others",
+        "Score": "0.40"
+    },
+    {
+        "Name": "rbone-mitre",
+        "Org": "Others",
+        "Score": "0.40"
+    },
+    {
+        "Name": "ruferp",
+        "Org": "Others",
+        "Score": "0.40"
+    },
+    {
+        "Name": "salilpant-brcm",
+        "Org": "Broadcom",
+        "Score": "0.40"
+    },
+    {
+        "Name": "springxucoder",
+        "Org": "Others",
+        "Score": "0.40"
+    },
+    {
+        "Name": "tjjh89017",
+        "Org": "Others",
+        "Score": "0.40"
+    },
+    {
+        "Name": "vikasksrivastava",
+        "Org": "Others",
+        "Score": "0.40"
+    },
+    {
+        "Name": "winstonliu1111",
+        "Org": "Others",
+        "Score": "0.40"
+    },
+    {
+        "Name": "Arul-Jeniston-Mc",
+        "Org": "Dell Technologies",
+        "Score": "0.30"
+    },
+    {
+        "Name": "BOT-NV",
+        "Org": "Others",
+        "Score": "0.30"
+    },
+    {
+        "Name": "Jipan-Yang",
+        "Org": "Others",
+        "Score": "0.30"
+    },
+    {
+        "Name": "Walker917",
+        "Org": "Others",
+        "Score": "0.30"
+    },
+    {
+        "Name": "WillsonHG",
+        "Org": "the linux foundation",
+        "Score": "0.30"
+    },
+    {
+        "Name": "disaster123",
+        "Org": "Others",
+        "Score": "0.30"
+    },
+    {
+        "Name": "fgggid",
+        "Org": "Others",
+        "Score": "0.30"
+    },
+    {
+        "Name": "kaoyusean",
+        "Org": "Alibaba",
+        "Score": "0.30"
+    },
+    {
+        "Name": "laodulaodu",
+        "Org": "Others",
+        "Score": "0.30"
+    },
+    {
+        "Name": "mnaberez",
+        "Org": "Others",
+        "Score": "0.30"
+    },
+    {
+        "Name": "ritacxl",
+        "Org": "Others",
+        "Score": "0.30"
+    },
+    {
+        "Name": "sflow-rt",
+        "Org": "Others",
+        "Score": "0.30"
+    },
+    {
+        "Name": "shivanangi",
+        "Org": "Others",
+        "Score": "0.30"
+    },
+    {
+        "Name": "tfangit",
+        "Org": "Others",
+        "Score": "0.30"
+    },
+    {
+        "Name": "yinshuangshuang",
+        "Org": "Others",
+        "Score": "0.30"
+    },
+    {
+        "Name": "wanxms",
+        "Org": "Microsoft",
+        "Score": "0.25"
+    },
+    {
+        "Name": "Nazarii",
+        "Org": "Others",
+        "Score": "0.20"
+    },
+    {
+        "Name": "StasTODD",
+        "Org": "Others",
+        "Score": "0.20"
+    },
+    {
+        "Name": "ashutshkumr",
+        "Org": "Keysight",
+        "Score": "0.20"
+    },
+    {
+        "Name": "asrivenk",
+        "Org": "Others",
+        "Score": "0.20"
+    },
+    {
+        "Name": "digesh",
+        "Org": "www.volansys.com",
+        "Score": "0.20"
+    },
+    {
+        "Name": "dtallen97",
+        "Org": "Others",
+        "Score": "0.20"
+    },
+    {
+        "Name": "navneeth2666",
+        "Org": "Others",
+        "Score": "0.20"
+    },
+    {
+        "Name": "satanninja",
+        "Org": "Others",
+        "Score": "0.20"
+    },
+    {
+        "Name": "sergeypopovich-ord",
+        "Org": "Ordnance",
+        "Score": "0.20"
+    },
+    {
+        "Name": "stayyule",
+        "Org": "Keysight",
+        "Score": "0.20"
+    },
+    {
+        "Name": "yurikvol",
+        "Org": "Others",
+        "Score": "0.15"
+    }
+]
